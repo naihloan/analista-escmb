@@ -6,7 +6,6 @@ Utilizando como material de trabajo el documento compartido que corresponde a es
 Luego, lo subimos donde dice "Agregar entrega" 
 ¿Querés ver cómo se hace? El siguiente video te lo muestra 
 
-
 Una vez que entregamos el documento, la actividad de la primer clase, ha terminado.
 
 ## Preguntas
