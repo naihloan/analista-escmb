@@ -1,9 +1,12 @@
 ---
-title: "Organización y  \n Análisis de Sistema"
-author: Benjamín Juárez
+title: "Organización y  \n Análisis de Sistemas"
+author: Benjamín Juárez & Juan Olmos
+geometry: margin=0.5cm
 date: 2020-06-20 
 output: docx_document
 ---
+
+\thispagestyle{empty}
 
 ## Ejercicio 2 | Procedimiento para ir de Córdoba a Carlos Paz en auto
 
