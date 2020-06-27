@@ -1,0 +1,38 @@
+¿Qué estados posibles tiene un Vehículo ? Explica cada uno de esos estados *
+Se deja de vender una determinada marca o modelo (repercuta en la venta)
+Posibles estados pueden ser: Disponible, no disponible. (Dependiendo si tienen en stock) 
+
+Si se refiere a un vehiculo tmb podemos determinar el estado para poder ofrecerle un servicio tecnico.
+En este caso los estados podrian ser: Buen estado, mal estado, regular.
+
+¿Qué estados posibles tiene una Venta? Explica cada uno de esos estados
+Concretada, suspendida, cancelada
+
+
+Describe la estructura de la tabla Vehículos *
+
+Describe la estructura de la tabla Ventas *
+
+
+Describe la estructura de la tabla Clientes .Relaciona las tablas Clientes con la tabla Sucursales . Explica la relación. *
+Estructura de la tabla Clientes: Id_cliente
+				 Id_Sucursal
+				 Id_Vehiculo0KM
+				 Id_VehiculoUsado
+				 Id_Consulta
+				 Nombre
+				 Apellido
+				 Edad
+				 Tel
+				 Direccion.
+				 Estado
+/*FALTA HACER LA RELACION*/
+Escribe en SQL la siguiente consulta: "Lista los Vehículos vendidos incluyendo Marca y Modelo" . *
+SELECT marca, modelo FROM vehículos WHERE estado = concretada
+
+Escribe en SQL la siguiente consulta: "Lista los vehículos incluyendo Marca y Modelo" *
+SELECT marca, modelo FROM vehículos 
+
+Escribe en SQL la siguiente consulta: "Designaciones de empleados en cargos" *
+SELECT cargo FROM empleados_designados.
+
