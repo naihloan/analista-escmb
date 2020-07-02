@@ -1,0 +1,108 @@
+\documentclass[]{article}
+\input{code}
+
+% \usepackage{enumerate}
+% \usepackage[shortlabels]{enumitem}
+\renewcommand{\labelenumii}{\theenumii}
+\renewcommand{\theenumii}{\theenumi.\arabic{enumii}.}
+
+% \newlist{legal}{enumerate}{10}
+% \setlist[legal]{label*=\arabic*.}
+
+\date{}
+\begin{document}
+
+\emph{\emph{Cambiar una rueda pinchada en la ruta}}
+
+Este ejercicio sirve para señalar los pasos sucesivos necesarios para reaccionar a cambiar una rueda pinchada en camino de ruta.
+Se atiende a la secuencia y causalidad de un paso a otro. En el caso de la pinchadura en este ejemplo se da en un paso en el medio de la ruta: el punto número 10, a la altura de Malagueño. 
+Ese mismo paso puede darse en cualquier punto del camino. 
+El conjunto de procedimientos es equivalente a si se pincha en un lugar u otro
+% la rueda en cualquier otro punto del camino a si se pincha en el medio de la ruta 
+como indica el ejemplo.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item Salir de mi casa
+\item Entrar al auto
+\item Arrancar el auto
+\item Acelerar
+\item Tomar la ruta de circunvalación saliendo del arco de Córdoba % \end{enumerate}
+%     \begin{itemize}
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \item O bien tomar la ruta de Av Sabatini por el centro
+    \end{enumerate}
+%     \end{itemize}
+
+\item Llego al peaje
+\item Abono la tasa del peaje
+\item Salgo del peaje
+\item Paso por el control de caminera
+\item Sigo recto por la carretera
+%
+  %%%%% INICIO DE PROBLEMA
+      \begin{enumerate}
+      \item A la altura de Malagueño, noto un ruido extraño en la rueda % \end{enumerate}
+      \item Procedo a frenar el auto
+%     \begin{itemize}
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \item Prendo las balizas
+    \item Verifico por el espejo retrovisor si no viene algún auto
+    \item Disminuyo la velocidad
+    \item Orillo el auto al costado de la ruta
+    \item Detengo el auto
+    \end{enumerate}
+%     \end{itemize}
+
+\item Me bajo a revisar cual es el problema
+\item Encuentro la rueda delantera izquierda pinchada
+\item Abrir el baúl del auto
+\item Sacar las herramientas y llanta de repuesto
+\item Colocar triángulo de balizas fuera del auto a 3 metros hacia el tráfico
+\item Dejar los materiales junto a la rueda
+\item Desajustar tuercas parcialmente
+\item Colocar gato
+\item Elevar auto
+\item Desajustar tuercas totalmente
+\item Quitar tuercas
+\item Quitar rueda
+\item Colocar rueda de auxilio
+\item Colocar tuercas
+\item Ajustar tuercas levemente
+\item Bajar auto con el gato
+\item Quitar gato
+\item Ajustar tuercas
+\item Juntar herramientas, rueda, gato
+\item Guardar herramientas, rueda, gato en el baúl
+\item Procedo a subir al auto
+% \end{enumerate}
+
+    \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \item Subir al auto
+    \item Sacar las balizas
+    \item Encender el auto
+    \item Mirar en el retrovisor izquierdo si vienen autos
+    \end{enumerate}
+\item Salir andando
+% \item Acelerar
+% \begin{enumerate}
+% \def\labelenumi{\arabic{enumi}.}
+\item
+  Estar atento a que no haya ningún otro ruido extraño en la rueda
+      \begin{enumerate}
+    \def\labelenumi{\arabic{enumi}.}
+    \item Si hay ruido volver a proceder a frenar el auto a revisar
+    \end{enumerate}
+      \end{enumerate}
+  %%%%% CIERRE DE PROBLEMA
+%
+\item
+  Llegar a Carlos Paz
+\item
+  Disfrutar de la tarde en un bar del centro de la ciudad
+\end{enumerate}
+
+\end{document}

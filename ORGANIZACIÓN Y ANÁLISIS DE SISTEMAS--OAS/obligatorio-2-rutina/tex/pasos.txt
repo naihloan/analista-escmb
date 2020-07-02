@@ -1,0 +1,52 @@
+Trabajo practico | Tareas y operaciones
+Consigna. Pasos para levantarse e ir a trabajar [Nicolas Peralta, Benjamín Juárez]
+Esta es una rutina que se hace sin considerar caminos alternativos ni otros medios de transporte. Se hace bajo
+condiciones normales de clima y sin accidentes en el camino. El desayuno se toma siempre en la oficina.
+  1. Despertarme
+      1.1. Tomar Celular
+      1.2. Apagar alarma
+  2. Levantarme
+      2.1. Colocarse el calzado
+  3. Ir al baño
+      3.1. Asearse
+              i. Abrir grifo
+             ii. Lavarme la cara
+            iii. Tomar Cepillo
+            iv. Colocar pasta dental
+             v. Cepillarme los dientes
+            vi. Dejar Cepillo
+           vii. Cerrar Grifo
+      3.2. Orinar
+      3.3. Salir del baño
+  4. Vestirse
+      4.1. Dirigirse al cuarto
+      4.2. Quitarme el pijama
+      4.3. Colocarme el uniforme de trabajo
+  5. Recoger pertenencias
+      5.1. Recoger llaves y billetera
+  6. Salir de la casa hacia el auto
+      6.1. Abrir puerta
+      6.2. Cerrar Puerta
+      6.3. Caminar hacia el auto
+      6.4. Sacar alarma del auto
+  7. Ir en auto
+      7.1. Subirme al auto
+              i. Abrir puerta
+             ii. Subirme
+            iii. Cerrar puerta
+      7.2. Dirigirme al trabajo
+              i. Arrancar Auto
+             ii. Hacer recorrido normal
+            iii. Estacionar Auto
+            iv. Apagar Auto
+      7.3. Bajar del auto
+              i. Abrir puerta del auto
+             ii. Me bajo
+            iii. Cerrar puerta del auto
+            iv. Colocar alarma al auto
+  8. Entrar al trabajo
+      8.3. Caminar hacia la puerta del trabajo
+      8.4. Abrir puerta trabajo
+      8.5. Ingresar al trabajo
+      8.6. Cerrar puerta trabajo
+  9. Fin
