@@ -68,12 +68,16 @@ Hacia el final del Siglo XIX empieza la administración científica. Al aumentar
 
 ## 6. La administración científica {#cap6}
 
+87-168//32--90
+
 Taylorismo. En esta época se promovieron muchas actividades nuevas que contrastaron con la época anterior. Por ejemplo, la administración pedía conservación y no desperdicio para ser más efectivo con los márgenes de utilidades: había que ahorrar esfuerzos materiales y tiempo.
 Se priorizó la investigación y el análisis, términos extraños para el líder de negocios promedio. Determinar científicamente el mejor camino fue un cambio en contraste contra el periodo anterior cuando los rumbos de negocios iban por imitación y por intuición, esto implica en la nueva etapa también cambios graduales y planificados en vez de bruscas revoluciones.
 Con la mano de obra se dejó de priorizar el individualismo y se atendió a una nueva visión de cooperación armoniosa. Y desde un punto de vista integral se puso énfasis en el uso de estándares y se animó a la administración a llegar a conclusiones después de investigar, a usar leyes por sobre la intuición y adivinanza individual. 
 Estos "nuevos puntos de vista" fueron radicales, aunque hoy son comunes y aceptados como la base de la excelencia y la práctica. Esta aceptación indica el efecto total de la administración científica: un concepto adelantado 20/30 años a su tiempo.
 
 ## 7. Conceptos de principios del Siglo XX {#cap7}
+
+87-168//44--102 | CFR Cap. 10
 
 Seis hombres se destacaron en estos años formativos de la administración. Promovieron la difusión de la administración y le dieron prestigio a la ciencia y al estudio de la función de la administración.
 
@@ -88,13 +92,19 @@ Seis hombres se destacaron en estos años formativos de la administración. Prom
 
 ## 8. Escritores y críticos menores {#cap8}
 
+87-168//57--115
+
 15 personas de esta época reforzaron y expandieron las viejas ideas. Se popularizó la idea de eficiencia. Aparecieron los primeros críticos importantes como Robert F. Hoxie, gracias al cual la ciencia administrativa tomó más fuerza y seguridad en sus fundamentos. Otro crítico, pero favorable, fue Horace B. Drury. También se amplió la idea de que la administración científica podía aplicarse en la oficina con tanto éxito como en la fábrica. 
 
 ## 9. Los filósofos de la administración {#cap9}
 
+87-168//69--127
+
 Más que una enumeración, importa que la administración alcanzó la madurez de una filosofía de pensamiento y acción. Las riquezas vinieron de, mencionamos al menos algunos: Sheldon, Mayo, Follet, Burnham, Barnard, Urwick.
 
 ## 10. Aparición de escuelas del pensamiento administrativo {#cap10}
+
+87-168//81--139 | CFR Cap. 7
 
 *Escuela del proceso administrativo* | Fayol, Mooney
 *E. del comportamiento* | Munsterberg, Gantt, Mayo, Parker Follett, Sheldon, Barnard.  
@@ -124,6 +134,8 @@ En este listado no se prioriza técnicas por orden de importancia, ni son mutuam
 
 ## 12. Escuela estructuralista {#cap12}
 
+169-232//19--159
+
 Con conceptos de la teoría científica y las relaciones humanas se busca explicar cómo aparecen conflictos en la organización. La escuela estructuralista estudia la relación entre la empresa y su entorno, sea el ambiente o los clientes y usuarios. 
 
 Las reglas de las organizaciones burocráticas son fundamentales para funcionar bien.
@@ -134,19 +146,27 @@ Se reconocen también las formas de ejercer el poder y los castigos. Se clasific
 
 ## 13. Enfoque neoclásico de la administración {#cap13}
 
+169-232//34--174
+
 Después de la segunda guerra mundial las empresas se establecen en otros países. Los teóricos establecen la mejor práctica *the best way*. Aparece una nueva filosofía directiva, la gerencia puede establecer una planeación estratégica y entiende hacia dónde va la empresa y cómo lograrlo. Los sistemas de control usan técnicas matemáticas y auditorías administrativas.
 
 ## 14. Escuela de sistemas {#cap14}
 
+169-232//40--182
+
 La teoría de sistemas clasifica sistemas según su grado de apertura. Esta clasificación general de sistemas no tuvo éxito porque hay muchos criterios distintos y no se pueden generalizar conceptos.  Los modelos de Katz y Khan, y de Kast y Rosenweig identifican diferentes enfoques de los sistemas de organización y la forma en que interactúan.  Churchman marcó las dificultades de definir un sistema, sus límites, objetivos, componentes y recursos.
 
 ## 15. Comportamiento humano y desarrollo organizacional {#cap15}
+
+169-232//53--195
 
 Las teoría de las ciencias de la conducta se pueden aplicar en el desarrollo organizacional. Desde esta perspectiva se investigaron las necesidades humanas y la motivación, ideas importantes fueron: el control y los estilos de dirección, y el proceso de toma de decisiones en la organización. 
 
 El desarrollo organizacional (DO) es la intervención planeada para generar cambio en la empresa. El DO evoluciona hacia técnicas de segunda generación enfocadas en la transformación total de la organización, y la cooperación inter-empresarial, un imperativo en las últimas dos décadas. 
 
 ## 16. Teoría organizacional y teoría de la contingencia {#cap16}
+
+169-232//63--205
 
 Con la teoría de la contingencia aparecen las tres dimensiones: tecnología, ambiente, y tamaño. Con el diseño de las organizaciones aparecen los conceptos de estructura, complejidad y procesos.
 
@@ -156,3 +176,25 @@ En la segunda mitad del Siglo XX nacieron los conceptos de calidad y mejora cont
 
 1. Reingeniería de procesos busca progresos en el rendimiento, procesos con menores costos, calidad al cliente.
 2. Benchmarking, para descubrir las mejores prácticas de la industria para fijar objetivos de mejora.
+
+## 18. Administración de la tecnología y la innovación {#cap18}
+
+233-300//25--231
+
+
+## 19. Administración estratégica {#cap19}
+
+233-300//37--243
+
+## 20. Administración y sociedad del conocimiento {#cap20}
+
+233-300//51--257
+
+## 21. La historia y la administración contemporánea {#cap21}
+
+233-300//57--263
+
+## 22. Autores Latinoamericanos {#cap22}
+
+233-300//68--274
+
