@@ -10,7 +10,7 @@ Una vez que entregamos el documento, la actividad de la primer clase, ha termina
 
 ## Preguntas
 
-¿Qué son las TIC´s según la Ley?
-¿Qué es el SBT?
-¿Qué es el Servicio de Telecomunicación?
-¿Qué es el Servicio de vídeo a pedido o a demanda?
+* ¿Qué son las TIC´s según la Ley?
+* ¿Qué es el SBT?
+* ¿Qué es el Servicio de Telecomunicación?
+* ¿Qué es el Servicio de vídeo a pedido o a demanda?
