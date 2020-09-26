@@ -1,19 +1,5 @@
 La breve historia de la ciberseguridad | Sofistic Cybersecurity
 
--   [Inicio](https://www.sofistic.com/)
--   [Contacto](https://www.sofistic.com/contacto/)
--   [Trabaja con
-    nosotros](https://www.sofistic.com/trabaja-en-sofistic/)
-
--   [Atlantis SOC](https://www.sofistic.com/atlantis-soc/)
--   [Servicios](https://www.sofistic.com/servicios/)
--   [Productos](https://www.sofistic.com/productos/)
--   [I+D+i](https://www.sofistic.com/idi/)
--   [Formación](https://www.sofistic.com/cursos-de-ciberseguridad/)
--   [Blog](https://www.sofistic.com/blog-ciberseguridad/)
-
-Seleccionar página
-
 La breve historia de la ciberseguridad
 ======================================
 
@@ -284,55 +270,6 @@ Darktrace ha convertido automáticamente a Sofistic en el primer Partner
 Platinum de nuestra región desde ha entrado en vigor el programa este
 mismo mes, gracias a nuestra trayectoria.
 
-0 Comentarios
-
-#### 0 comentarios
-
-### Enviar un comentario [Cancelar la respuesta](/blog-ciberseguridad/la-breve-historia-de-la-ciberseguridad/#respond)
-
-Tu dirección de correo electrónico no será publicada. Los campos
-obligatorios están marcados con \*
-
-Comentario
-
-Nombre \*
-
-Correo electrónico \*
-
-Web
-
-Enviar comentario
-
-\
-Sofistic es una empresa nacida de investigadores en seguridad
-informática de las Universidades de Castellón y Valencia en España, que
-cuentan en su trayectoria con publicaciones de seguridad, de
-reconocimiento mundial. Desde 2009, ha ofrecido servicios a grandes
-cuentas, administraciones públicas, Gobiernos, y empresas de servicios
-críticos.
-
-#### Últimas noticias
-
--   [¿Los antivirus para Android son
-    eficaces?](https://www.sofistic.com/blog-ciberseguridad/antivirus-android-eficaces/)
--   [El malware Ginp usa las personas infectadas con coronavirus como
-    cebo para robar tarjetas de
-    crédito](https://www.sofistic.com/blog-ciberseguridad/troyano-ginp-bancos-buscador-coronavirus/)
-
-#### Contacto
-
-[**Sofistic Colombia**](https://www.sofistic.com/contacto/)\
-Cra. 12A Nº 77A-52\
-Oficina 505\
-Bogotá D.C.\
-**Tel: **[**+57 350 859 1530**](tel:+573508591530)
-
-[**Sofistic Rep. Dominicana**](https://www.sofistic.com/contacto/)\
-Pyhex Work\
-Avenida John F Kennedy 7\
-Santo Domingo\
-**Tel: **[**+1 (809) 350-0710**](tel:+18093500710)
-
 #### Contacto
 
 [**Sofistic España**](https://www.sofistic.com/contacto/)\
@@ -354,8 +291,4 @@ Santiago Centro,\
 Santiago de Chile\
 **Tel: **[**+56 9 92360541**](tel:+56992360541)
 
--   [Facebook](https://www.facebook.com/Sofistic)
 -   [Twitter](https://twitter.com/sofistic)
-
-Diseñado por [Elegant Themes](http://www.elegantthemes.com) |
-Desarrollado por [WordPress](http://www.wordpress.org)
