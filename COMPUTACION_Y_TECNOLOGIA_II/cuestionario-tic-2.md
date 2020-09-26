@@ -6,7 +6,7 @@ Luego, lo subimos donde dice "Agregar entrega"
 
 ## Preguntas
 
-¿Qué son los servicios de TIC´s?
-¿Qué es la Telecomunicación?
-¿Qué se requiere para la prestación de Servicios de TIC?
+* ¿Qué son los servicios de TIC´s?
+* ¿Qué es la Telecomunicación?
+* ¿Qué se requiere para la prestación de Servicios de TIC?
 
