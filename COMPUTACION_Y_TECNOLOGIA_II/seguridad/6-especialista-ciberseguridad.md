@@ -1,66 +1,7 @@
-Especialista en ciberseguridad - educaweb.com
-
--   [Estudiantes](/)
--   |
--   [Centros](/centros-educativos/)
--   |
--   [Profesionales](/profesionales-educacion/)
--   |
--   [Familias](/orientacion-familia/)
-
-[Educaweb](/)
-
-[](/account/)
-
--   [](/cursos/)
-
-    Descubre
-
-    cursos y centros
-
-    -   Cursos y centros
-    -   [Cursos](/cursos/)
-    -   [Centros](/centros/)
--   [](/contenidos/educativos/)
-
-    Decide
-
-    tu formación
-
-    -   Explora en qué estudios y profesiones tienes potencial
-    -   [Con nuestra herramienta GR descubre tus intereses y
-        profesiones](/orientacion/intereses-profesionales/)
-    -   Conoce
-    -   [Sistema educativo](/contenidos/educativos/)
-    -   [Titulaciones oficiales](/estudios/)
-    -   [Profesiones](/profesiones/)
-    -   Resuelve todas tus dudas
-    -   [Servicio online](/orientacion-online/)
--   [](/actualidad/)
-
-    Infórmate
-
-    de la actualidad
-
-    -   Infórmate
-    -   [Toda la actualidad educativa](/actualidad/)
--   [](/account/)
-
-<!-- -->
-
--   [Cursos](/cursos/)
--   [Centros](/centros/)
--   [Titulaciones](/estudios/)
--   [Profesiones](/profesiones/)
--   [Orientación](/contenidos/educativos/)
--   [Noticias](/actualidad/)
-
 Especialista en ciberseguridad
 ==============================
 
-[&lt; Volver a los resultados](/cursos/)
-
-Descripción
+- educaweb.com
 
 El **especialista en ciberseguridad** es el encargado de la privacidad y
 protección de datos de las empresas y las organizaciones para hacer
@@ -306,89 +247,31 @@ Ciberseguridad](/curso/master-universitario-ciberseguridad-360888/)
 
 [Universitat d'Alacant](/centro/universitat-alacant-alicante-11336/)
 
-Solicita información
-
-consultar precio
-
-Presencial
-
-Recomendado
-
 [Máster en Ciberseguridad](/curso/master-ciberseguridad-sevilla-354870/)
 
 [Universidad Loyola
 Andalucía](/centro/universidad-loyola-andalucia-sevilla-52243/)
 
-Solicita información
-
-consultar precio
-
-Presencial
-
-Recomendado
-
 [Máster en Ciberseguridad](/curso/master-ciberseguridad-on-line-321798/)
 
 [Grupo IOE](/centro/grupo-ioe-murcia-36550/)
-
-Solicita información
-
-consultar precio
-
-On-line
-
-Recomendado
 
 [Máster en Ciberseguridad](/curso/master-ciberseguridad-on-line-361493/)
 
 [VIU Universidad Internacional de
 Valencia](/centro/viu-universidad-internacional-valencia-valencia-18557/)
 
-Solicita información
-
-consultar precio
-
-On-line
-
-Recomendado
-
-[Máster en Ciberseguridad](/curso/master-ciberseguridad-madrid-362468/)
-
 [Universidad Pontificia
 Comillas](/centro/universidad-pontificia-comillas-madrid-17852/)
-
-Solicita información
-
-consultar precio
-
-Presencial
-
-Recomendado
 
 [Máster en Ciberseguridad](/curso/master-ciberseguridad-malaga-358522/)
 
 [Escuela Superior de Estudios de Empresa - ESESA
 IMF](/centro/escuela-superior-estudios-empresa-esesa-imf-malaga-54685/)
 
-Solicita información
-
-consultar precio
-
-Semi-presencial
-
-Recomendado
-
 [Máster en Ciberseguridad](/curso/master-ciberseguridad-350563/)
 
 [Universidad Isabel I](/centro/universidad-isabel-burgos-51507/)
-
-Solicita información
-
-consultar precio
-
-On-line
-
-Recomendado
 
 [Posgrado en Compliance y
 Ciberseguridad](/curso/posgrado-compliance-ciberseguridad-barcelona-361509/)
@@ -396,59 +279,12 @@ Ciberseguridad](/curso/posgrado-compliance-ciberseguridad-barcelona-361509/)
 [Universitat Internacional de
 Catalunya](/centro/universitat-internacional-catalunya-barcelona-52248/)
 
-Solicita información
 
-consultar precio
+[](https://www.educaweb.com) expertos en educación, formación y orientación, desde 1998
 
-Presencial
-
-[](https://www.educaweb.com)
-
-expertos en educación,
-
-formación y orientación, desde 1998
-
--   [Quiénes somos](/secciones/quienes-somos/informacion-general/)
--   [Información
-    legal](/secciones/informacion-legal/proteccion-contenidos/)
--   [Política de
-    Cookies](/secciones/informacion-legal/politica-cookies/)
--   [Alianzas y
-    afiliación](/secciones/quienes-somos/alianzas-afiliacion/)
--   [Trabaja con nosotros](/secciones/quienes-somos/trabaja-nosotros/)
--   [Contáctanos](/secciones/quienes-somos/contactanos/)
--   [Mapa web](/mapa/)
-
-<!-- -->
-
--   [Servicios para centros](/centros-educativos/#ayd1)
--   [Gestión educativa](http://gestioneducativa.educaweb.com/)
--   [Premios Educaweb](/premios/)
--   [TeachersPro](http://www.teacherspro.com)
--   [Registra tu centro](/client/login_client.aspx)
--   [Accede a tu área](/client/)
-
-<!-- -->
-
--   [Test de orientación](/orientacion/intereses-profesionales/)
--   [Resuelve tus dudas](/orientacion-online/)
--   [Mejora tu currículum](/cv/)
--   [Consultorio](//www.educaweb.com/consultas-orientacion/)
-
-<!-- -->
-
--   España
--   [Cataluña](https://www.educaweb.cat/)
--   [Colombia](https://www.educaweb.com.co/)
--   [Italia](https://www.educaweb.it/)
--   [México](https://www.educaweb.mx/)
-
-<!-- -->
 
 -   Síguenos:
--   [](https://www.facebook.com/Educaweb)
 -   [](https://www.linkedin.com/company/educaweb)
--   [](https://pinterest.com/educaweb/)
 -   [](https://twitter.com/#!/educaweb)
 -   [](https://www.youtube.com/c/educaweb)
 -   [](https://www.instagram.com/Educaweb_com/)
