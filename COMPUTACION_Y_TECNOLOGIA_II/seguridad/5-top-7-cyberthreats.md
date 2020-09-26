@@ -1,11 +1,7 @@
-Las siete principales amenazas de ciberseguridad a las que debes estar
-atento | Kaspersky
-
-Las siete principales amenazas de ciberseguridad a las que debes estar atento
-=============================================================================
-
 Las siete principales amenazas de ciberseguridad a las que debes estar atento en 2015-2016
 ------------------------------------------------------------------------------------------
+
+Kaspersky
 
 *content/es-mx/images/repository/isc/2017-images/malware-img-58.jpg*
 
