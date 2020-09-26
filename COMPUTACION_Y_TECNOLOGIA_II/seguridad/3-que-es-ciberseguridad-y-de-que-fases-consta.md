@@ -3,41 +3,7 @@
 [](https://obsbusiness.school/es) [+34 934 005
 375](tel:+34%20934%20005%20375)
 
-Toggle navigation
-
--   [MBAs y Másters Online](/es/masters-online-y-posgrados)
--   [Conócenos](/es/conocenos)
--   [OBServatory](/es/observatory)
--   [Alumni](/es/alumni/mision-y-objetivos)
--   [Faculty & Research](/es/blogs-obs)
--   [Sala de Prensa](/es/sala-de-prensa)
--   [Acceso al Campus](http://campus.obs-edu.com/)
-
-[+34 934 005 375](tel:+34%20934%20005%20375)
-
-[](https://obsbusiness.school/es)
-
-Partners Académicos
-
--   [MBA](/es/mbas)
--   [DIRECCIÓN GENERAL](/es/masters-y-posgrados-en-direccion-general)
--   [FINANZAS](/es/masters-y-posgrados-en-finanzas)
--   [SISTEMAS Y
-    OPERACIONES](/es/masters-y-posgrados-en-sistemas-y-operaciones)
--   [MARKETING Y
-    COMUNICACIÓN](/es/masters-y-posgrados-en-marketing-y-comunicacion)
--   [DERECHO](/es/masters-y-posgrados-en-derecho-de-la-empresa)
--   [RRHH](/es/masters-y-posgrados-en-rrhh)
--   [SALUD](/es/masters-y-posgrados-en-salud)
-
 1.  [OBS](/es)
-2.  [Noticias](/es/noticias)
-3.  [Sistemas](/es/blog-investigacion/sistemas)
-4.  ¿Qué es ciberseguridad y de qué fases consta?
-
-<!-- -->
-
-1.  [](/es)
 2.  [Noticias](/es/noticias)
 3.  [Sistemas](/es/blog-investigacion/sistemas)
 4.  ¿Qué es ciberseguridad y de qué fases consta?
@@ -46,8 +12,6 @@ Tendencias & Innovación
 
 ¿Qué es ciberseguridad y de qué fases consta?
 =============================================
-
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20ciberseguridad%20y%20de%20qu%C3%A9%20fases%20consta%3F%20-&url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://plus.google.com/share?url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta&title=%C2%BFQu%C3%A9%20es%20ciberseguridad%20y%20de%20qu%C3%A9%20fases%20consta%3F&summary=&source=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)
 
 Desde hace unos años, la palabra ciberseguridad se ha vuelto un estándar
 entre las empresas, puesto que la informática es ya una herramienta
@@ -159,115 +123,12 @@ reacción.
     pertinente para comunicarlo a los usuarios afectados y elevar lo
     ocurrido a una situación de delito informático.
 
- 
-
-[](https://recursos-project-management.obs-edu.com/descargate-nuestra-guia-gratuita-propiedad-intelectual-ciberseguridad1)
-
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://twitter.com/intent/tweet?text=%C2%BFQu%C3%A9%20es%20ciberseguridad%20y%20de%20qu%C3%A9%20fases%20consta%3F%20-&url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://plus.google.com/share?url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta&title=%C2%BFQu%C3%A9%20es%20ciberseguridad%20y%20de%20qu%C3%A9%20fases%20consta%3F&summary=&source=https%3A%2F%2Fobsbusiness.school%2Fes%2Fblog-investigacion%2Fsistemas%2Fque-es-ciberseguridad-y-de-que-fases-consta)
-
-Buscar
-
-### Categorías
-
--   [Derecho de la
-    Empresa](/es/blog-investigacion/derecho-de-la-empresa)
--   [Dirección General](/es/blog-investigacion/direccion-general)
--   [Finanzas](/es/blog-investigacion/finanzas)
--   [Marketing y
-    Comunicación](/es/blog-investigacion/marketing-y-comunicacion)
--   [MBA](/es/blog-investigacion/mba)
--   [Operaciones](/es/blog-investigacion/operaciones)
--   [Recursos Humanos](/es/blog-investigacion/recursos-humanos)
--   [Sistemas](/es/blog-investigacion/sistemas)
-
-Cursos destacados
-
--   [Máster en Dirección Estratégica de Operaciones e
-    Innovación](/es/master-en-direccion-estrategica-de-operaciones-e-innovacion)
--   [Máster en Supply Chain Management and
-    Logistics](/es/master-en-supply-chain-management-logistics)
--   [Máster en Dirección de Sistemas y Tecnologías de la
-    Información](/es/master-en-direccion-de-sistemas-y-tecnologias-de-la-informacion)
-
-[Ver todos](/es/masters-online-y-posgrados)
-
-En este Master online se trabajan las claves para alcanzar la
-competitividad empresarial mediante la innovación
-
-[Solicitar
-información](http://www.obs-edu.com/es/master-en-innovacion-y-emprendimiento/master-en-emprendimiento?c=I91439M0003)
-
-Posts Relacionados
-
- Qué son los estándares ISO 31000 
-
-[VER
-POST](/es/blog-investigacion/sistemas/que-son-los-estandares-iso-31000)
-
- ¿Qué es ITIL y cuáles son sus certificaciones? 
-
-[VER
-POST](/es/blog-investigacion/sistemas/que-es-itil-y-cuales-son-sus-certificaciones)
-
- Características del sistema integrado de gestión y... 
-
-[VER
-POST](/es/blog-investigacion/sistemas/caracteristicas-del-sistema-integrado-de-gestion-y-sus-estructuras)
-
-Solicita Información
-
-Ubicación
-
-Avda. Josep Tarradelles i Joan 171-175\
-08901 L’Hospitalet de Llobregat (Barcelona)\
-+34 934 005 375
-
-SEDE COLOMBIA
-
-Calle 76,No. 11-35 Piso 6
-
-Bogotá, Colombia
-
-SEDE MÉXICO
-
-Av. Pte. Mazaryk 111 Piso 3,
-
-Polanco V sección
-
-Ciudad de México
-
-SEDE PERÚ
-
-Edificio Prisma Tower
-
-Av. Juan de Aliaga N° 425, piso 7 oficina 704\
-Magdalena del Mar
-
-Lima, Perú
-
-Acreditaciones
-
-Campus Online
-
-Si eres alumno \
-accede al
-
-[](http://campus.obs-edu.com/)
-
-CAMPUS ONLINE
-
 © 2020 OBS
-
-[Condiciones de Uso](/es/condiciones-de-uso) [Mapa
-web](/es/conocenos/mapa-web) [Política de
-Privacidad](/es/politica-de-privacidad) [Política de
-cookies](/es/politica-de-cookies)
 
 Síguenos
 
 -   [](https://www.linkedin.com/school/obsbusiness-school)
 -   [](https://twitter.com/ObsSchool)
--   [](https://www.facebook.com/obsbusiness.school/)
 -   [](https://www.youtube.com/user/OnlineBusinessSchool?sub_confirmation=1)
 -   [](https://www.instagram.com/obsbusiness.school/)
 -   [](https://www.slideshare.net/OBSBusinessSchool)
