@@ -6,12 +6,6 @@ La breve historia de la ciberseguridad
 30/Nov/2019[Nuevas
 Tendencias](https://www.sofistic.com/blog-ciberseguridad/category/categoria-nuevas-tendencias/)
 
-La breve historia de la ciberseguridad
-======================================
-
-30/Nov/2019[Nuevas
-Tendencias](https://www.sofistic.com/blog-ciberseguridad/category/categoria-nuevas-tendencias/)
-
 Hoy 30 de noviembre se celebra el **Día Mundial de la Ciberseguridad** o
 Seguridad de la Información, con el objetivo de concienciar sobre los
 riesgos que pueden causar los ciberataques. Este día se celebró por
