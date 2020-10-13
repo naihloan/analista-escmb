@@ -1,0 +1,7 @@
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\bin\Debug\prompt.txt
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\bin\Debug\ManuelBelgrano.Aplicacion.exe.config
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\bin\Debug\ManuelBelgrano.Aplicacion.exe
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\bin\Debug\ManuelBelgrano.Aplicacion.pdb
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\obj\Debug\ManuelBelgrano.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\obj\Debug\ManuelBelgrano.Aplicacion.exe
+C:\Users\shashis\Documents\GitHub\analista-escmb\PROGRAMACION-APLICADA\2020-08-19--teleprompter\02-Resuelto\ManuelBelgrano\ManuelBelgrano.Aplicacion\obj\Debug\ManuelBelgrano.Aplicacion.pdb
