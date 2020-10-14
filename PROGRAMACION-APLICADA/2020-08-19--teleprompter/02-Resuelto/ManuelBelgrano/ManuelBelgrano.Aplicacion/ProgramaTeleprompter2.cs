@@ -15,6 +15,8 @@ namespace ManuelBelgrano.Aplicacion
             string[] text = File.ReadAllLines("prompt.txt");
             var tamanio = text.Length;
             Console.WriteLine(text);
+
+            Console.ReadLine;
             
           
 
