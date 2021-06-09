@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ingreso de datos</title>
+    <link href="css/ManuelBelgranoSite.css" rel="stylesheet" />
+    <script src="JavaScript/Site.js"></script>
+</head>
+<body>
+    <div class="titulo">
+        <h1>Cargar Datos de una Persona</h1>
+    </div>
+    <div>
+        <label for="Nombre">Nombre:</label>
+        <input type="text" id="Nombre" name="Nombre" />
+    </div>
+    <div></div>
+    <div>
+        <label for="Edad">Edad:</label>
+        <input type="number" id="Edad" min="1" max="150" />
+    </div>
+
+    <div>
+        <label for="FechaDeNacimiento">Fecha de Nacimiento</label>
+        <input type="date" id="FechaDeNacimiento" />
+    </div>
+
+    <div>
+        <label for="Estudias">¿Actualmente estas estudiando?</label>
+        <input type="checkbox" id="Estudias" />
+    </div>
+
+    <div>
+        <label for="LugarDeResidencia">Lugar de Residencia:</label>
+        <select id="LugarDeResidencia">
+            <option value="Santiago">Santiago Del Estero</option>
+            <option value="Cordoba">Córdoba</option>
+            <option value="Otro">Otro</option>
+        </select>
+    </div>
+
+    <div>
+        <label>Seleccione nivel de estudio:</label>
+        <input type="radio" id="NivelDeEstudioPrimario" name="Estudio" />
+        <label for="NivelDeEstudioPrimario">Primario</label>
+
+        <input type="radio" id="NivelDeEstudioSecundario" name="Estudio" />
+        <label for="NivelDeEstudioSecundario">Secundario</label>
+
+        <input type="radio" id="NivelDeEstudioTerciario" name="Estudio" />
+        <label for="NivelDeEstudioTerciario">Terciario</label>
+
+        <input type="radio" id="NivelDeEstudioUniversitario" name="Estudio" />
+        <label for="NivelDeEstudioUniversitario">Universitario</label>
+    </div>
+
+    <div>
+        <label for="Descripcion">Descripción:</label>
+        <textarea id="Descripcion"></textarea>
+    </div>
+
+    <input type="button" value="Es un botón" />
+
+    <input type="hidden" id="TokenDeVerificacion" value="123" />
+
+    <button id="boton" onclick="javascript: cargarDatos();">
+        Cargar datos
+    </button>
+    <button id="boton2" onclick="javascript: mostrarDatos();">
+        Mostrar datos
+    </button>
+
+    <a href="#" onclick="javascript: cambiarEstilo();">Cambiar Estilo</a>
+    <hr />
+    <table id="tablaDatos">
+        <tr>
+            <th>Nombre</th>
+            <th>Edad</th>
+            <!--Escribes un comentario-->
+        </tr>
+    </table>
+
+    <button onclick="javascript:llenarTabla()">Llenar tabla</button>
+
+</body>
+</html>
