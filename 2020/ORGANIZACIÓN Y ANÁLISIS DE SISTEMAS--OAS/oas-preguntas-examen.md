@@ -52,7 +52,21 @@ Respuesta 4. Importancia.
 	* Me permite trabajar con calidad, velocidad, economía, coordinación y control, etc. Estos son los objetivos de los procedimientos administrativos.
 
 * Después que le diga cuáles eran las etapas de la metodología clásica, y me pidió describir etapa preguntar y me preguntó que hacía en la planificación.
-	* En esta etapa se busca el mejor aprovechamiento de recursos para ejecutar el proceso de análisis. El acuerdo de tiempo estimado con la organización tiene una función de tipo imperativa. Así se gestiona en el día a día del proyecto. Al finalizar el mandato se revisa lo acordado. 
+1. Estudio preliminar
+2. Planeamiento
+3. Relevamiento
+4. Diagnóstico
+5. Diseño
+	* Diseño global
+	* Factibilidad / Justificación
+	* Presentación de nuevo proceso / informe
+	* Diseño detallado
+6. Implementación
+	* Preparación
+	* Conversión
+	* Puesta en marcha
+7. Seguimiento y Control
+	* En esta etapa (planificación) se busca el mejor aprovechamiento de recursos para ejecutar el proceso de análisis. El acuerdo de tiempo estimado con la organización tiene una función de tipo imperativa. Así se gestiona en el día a día del proyecto. Al finalizar el mandato se revisa lo acordado. 
 
 * Por último me preguntó que relación había entre la etapa de planificación y el relevamiento.
 	* Se busca la información para transformar las opiniones en hechos, y un control cruzado, y se respete la objetividad en recolección y registro. Identificar los focos de decisiones, y las cargas de trabajo, y los formularios que se relacionan con las tareas. Considerar la calidad de información, que sea precisa, de su fuente de origen, y se considere la política de la organización. El analista debe diferenciar dato, hecho, opinión, deducciones, informaciones. 
