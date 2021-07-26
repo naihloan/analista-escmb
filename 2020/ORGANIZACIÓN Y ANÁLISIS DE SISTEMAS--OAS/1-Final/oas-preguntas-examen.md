@@ -34,6 +34,9 @@ Página 39. Libro de Lardent.
 3. Que relacion hay entre el planeamiento, diseño y modelación de sistemas 
 - En diseño se consideran las soluciones a los problemas planteados y se selecciona la mejor alternativa. 
 
+[23:51, 7/25/2021] Luciano: Como era la relacion entre planeamiento y relevamiento?
+[23:55, 7/25/2021] BJ: En relevamiento se consideran los problemas planteados en el mandato y sus posibles diagnosticos.
+
 * Que es organizacion
 * Procesamiento
 * Relación entre esas cosas
