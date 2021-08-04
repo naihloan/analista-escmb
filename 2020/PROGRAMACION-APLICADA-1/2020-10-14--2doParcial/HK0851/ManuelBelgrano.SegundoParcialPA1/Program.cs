@@ -34,26 +34,28 @@ Usando un bucle FOR, mostrar las palabras en el rango de posiciones del 15 al 25
             // Luego generar los métodos para:
             // Usando un bucle FOR, mostrar las palabras en el rango de posiciones del 15 al 25 .
 
+            Console.WriteLine("Esta es una lista de palabras entre los rangos 15 y 25: "); 
             for(var i=15; i <= 25; i++)
             {
                 Console.WriteLine(listaDePalabras[i]);
             }
 
+            Console.WriteLine("Y ahora esta es una palabra al azar: ");
             // Usando el método Random, mostrar una palabra aleatoria de 0 hasta el tamaño del vector
             Random r = new Random();
             int n = r.Next(0, listaDePalabras.Length);
             Console.WriteLine(listaDePalabras[n]);
 
             // Mostrar un mensaje que pida al usuario que ingrese un valor (texto) 
-            Console.WriteLine("Usuario: ingrese un valor en texto en mayuscula o minuscula: ");
+            Console.WriteLine("Usuario: ingrese un valor en texto en mayúscula o minúscula: ");
             // y segun sea ese valor hacer: :  Si la letra ingresada es "N" o "n", Limpiar la pantalla y ubicar el cursor en la posición Top: 20 y Left: 25 y mostrar tu nombre completo
-            Console.WriteLine("'N' o 'n'; ");
+            Console.WriteLine("'N' o 'n', para mostrar tu nombre; ");
             // Si la letra ingresada es "L" o "l", Limpliar la pantalla y mostrar con un color de fondo azul (blue) y letras amarillas (yellow) el mensaje "Esto ha sido el parcial"
-            Console.WriteLine("'L' o 'l'; ");
+            Console.WriteLine("'L' o 'l', para limpiar la pantalla y terminar el test; ");
             // Caso contrario, Limpiar la pantalla, Producir un sonido "Console.Beep..." y finalizar el programa
             Console.WriteLine("o cualquier otra tecla para finalizar el programa.");
 
-            var texto = Helper.IngresoString("Ingrese ");
+            var texto = Helper.IngresoString("Presione una letra cualquiera: ");
             if (texto == "N" || texto == "n")
             {
                     Console.Clear();
