@@ -25,29 +25,22 @@ namespace ManuelBelgrano.Examen
 
             for (int i = 0; i \< tamanioVector; i++)
             {
-                alumnos\[i\] = Helper.IngresoString(\"Ingrese el nombre
-del Alumno:\");
-                nota1erExamen\[i\] = Helper.IngresoDouble(0,10,\"Ingrese
-la nota del 1er examen\");
-                nota2doExamen\[i\] = Helper.IngresoDouble(0, 10,
-\"Ingrese la nota del 2do examen\");
-                nota3erExamen\[i\] = Helper.IngresoDouble(0, 10,
-\"Ingrese la nota del 3er examen\");
+                alumnos\[i\] = Helper.IngresoString(\"Ingrese el nombre del Alumno:\");
+                nota1erExamen\[i\] = Helper.IngresoDouble(0,10,\"Ingrese la nota del 1er examen\");
+                nota2doExamen\[i\] = Helper.IngresoDouble(0, 10, \"Ingrese la nota del 2do examen\");
+                nota3erExamen\[i\] = Helper.IngresoDouble(0, 10, \"Ingrese la nota del 3er examen\");
                 Console.Clear();
             }
 
             for (int i = 0; i \< tamanioVector; i++)
             {
-                promedio\[i\] = Math.Round(((nota1erExamen\[i\] +
-nota2doExamen\[i\]) + nota3erExamen\[i\]) / 3,2);
-                condicion\[i\] = (promedio\[i\] \>= 6) ? condicion\[i\]
-= \"Aprobado\" : condicion\[i\] = \"Reprobado\";
+                promedio\[i\] = Math.Round(((nota1erExamen\[i\] + nota2doExamen\[i\]) + nota3erExamen\[i\]) / 3,2);
+                condicion\[i\] = (promedio\[i\] \>= 6) ? condicion\[i\] = \"Aprobado\" : condicion\[i\] = \"Reprobado\";
             }
 
             for (int i = 0; i \< tamanioVector; i++)
             {
-                Console.WriteLine(\$\"Alumno: {alumnos\[i\]} , Primer
-Examen: {nota1erExamen\[i\]} , Segundo Examen: {nota2doExamen\[i\]} ,
+                Console.WriteLine(\$\"Alumno: {alumnos\[i\]} , Primer Examen: {nota1erExamen\[i\]} , Segundo Examen: {nota2doExamen\[i\]} ,
 Tercer Examen: {nota3erExamen\[i\]} ,\" +
                     \$\" Promedio: {promedio\[i\]} , Condición:
 {condicion\[i\]}\");
