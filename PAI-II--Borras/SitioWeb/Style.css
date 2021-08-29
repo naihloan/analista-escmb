@@ -1,0 +1,12 @@
+﻿body
+{
+    background-color:beige;
+}
+
+a {
+    color:lightseagreen;
+    text-decoration:none;
+}
+    a:hover {
+               text-decoration:underline;
+    }
