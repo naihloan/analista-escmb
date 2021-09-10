@@ -1,3 +1,28 @@
+panino.2.4
+panino2020
+
+---
+
+TURNO NOTIFICADO
+Ha realizado previamente su inscripción para la vacunación voluntaria y se le ha notificado sobre su turno para el día 07/09/2021 - Capital-Comedor Universitario-15 a 16 hs-AstraZeneca-Segunda-Depto:Capital-Loc:Cordoba
+Puede acceder a la notificación enviada ingresando a sus comunicaciones recibidas en CIDI
+
+---
+
+as of the quarter metrics,
+is it the same to open passport as an app or as in the url?
+
+now we can see only current active users, right now.
+what actions they are doing.
+
+Tech Stack in passport
+numbers: php, ... with e?
+desktop: electron/nodejs, fast with api. using mongodb? connecting to auth0, it requests login several times, it shouldn't. the cookie is set to request. the token is prepared this way, to have short sessions, for 6 hours. we may have a chance to change this for longer times in passport. 
+web app: angular + vue.js + material
+html + js + jquery
+
+1.15
+
 Córdoba, MES de 2021
 
 Al Sr. GERENTE PROPIETARIO
