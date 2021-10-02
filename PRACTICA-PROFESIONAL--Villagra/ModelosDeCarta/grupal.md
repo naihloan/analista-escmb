@@ -1,11 +1,140 @@
+ESTUDIO PRELIMINAR / MANDATO
+* Esquema simplificado de los procesos de la empresa. Areas de organigrama designan actividades: ver procesos de entrada y salida.
+* Análisis de condiciones de trabajo de la empresa
+* Especificación de la finalidad del mandato 
+
+PLANEAMIENTO
+* Estudio del Organigrama
+* Ponderación de elementos no formales que exceden al Organigrama
+* Selección de estrategia de relevamiento óptima
+
+RELEVAMIENTO
+* Observación in situ
+* Entrevista Virtual o Presencial
+* Muestreo / Encuesta
+
+DIAGNOSTICO
+DISEÑO
+* Metodología
+* Diseño Global
+* Factibilidad
+
+
+
+---
+
+## Plan de Mitigación
+
+(sin gannt pero con fecha)
+
+### Haciendo/Hecho
+
+* Trabajando de líder de proyecto. Los integrantes del grupo teníamos poca experiencia en este tema. Desde la última redacción del Foda grupal uno de los integrantes (Benjamín Juárez), inició trabajo en el área, aprendiendo conocimientos, entrenando en buenas prácticas, compartiendo materiales con el grupo. El entrenamiento incluye lecturas de libros que ayudan a entender cómo avanzar en proyectos complejos, evaluación de prioridades, gestión de recursos materiales, humanos, tiempos.  
+* Libro ya leído en agosto 2021: "Getting Things Done: The Art of Stress-Free Productivity", de David Allen.
+* Leyendo en septiembre 2021: el libro "Escaping the Build Trap: How Effective Product Management Creates Real Value", de Melissa Perri. 
+* Plan de lectura: 
+	* "User Story Mapping: Discover the Whole Story, Build the Right Product"
+de Jeff Patton, Peter Economy.
+	* "Inspired: How to Create Tech Products Customers Love", de Marty Cagan.
+
+Con el fin de mitigar las debilidades y enfrentar las amenazas para con nuestro equipo de trabajo, se realizarán las siguientes actividades:
+
+En cuanto a nuestras debilidades:
+
+Un integrante del equipo está en formación laboral como líder de proyecto, con lo cual podemos compartir los aprendizajes para el resto del equipo.
+Profundizar el conocimiento en dirección de proyectos, recurriendo a bibliografía disponible, y realización de cursos on line.
+Realizar cursos on line para incrementar los conocimientos sobre infraestructura de redes, hardware y seguridad informática.
+
+Respecto a las amenazas:
+
+Extremar los cuidados en la interacción con la organización siguiendo estrictamente las recomendaciones del COE.
+Hacer uso de entrevistas y otras interacciones on line.
+Tener una organización alternativa, por si como resultado de la crisis económica se finaliza el vínculo con la organización seleccionada.
+"				
+
+---
+
+## Metodología de Versionado de documentación
+
+Los archivos de trabajo se trabajan en Google Drive.
+
+El nombrado seguirá el formato con versión y fecha, AÑOde4DIGITOS-MESde2DIGITOS-DIAde2DIGITOS:
+
+NombreDeArchivo.VX.XXXX-XX-XX
+
+Las presentaciones institucionales solo llevarán la versión, sin fecha, en pdf:
+
+NombreDeArchivo.VX
+
+La versión entregada tendrá registro interno como entregable:
+
+NombreDeArchivo.VX.XXXX-XX-XX--ENTREGABLE
+
+
+---
+Asunto
+2do Parcial de Sistemas de Información / Devolución Trabajo de Calidad
+
+Hola profe,
+gracias por las últimas devoluciones, vamos avanzando con las presentaciones.
+
+Queríamos saber, como grupo, cómo podemos mejorar la pro-forma. Nos puede dar algunas indicaciones de los puntos fuertes y débiles de la última presentación. Paso link para acceso inmediato:
+https://drive.google.com/file/d/1iWMINI3Ik-iKtCzRyUJfA5GjZk9Yab-V/view?usp=sharing
+
+Agradezco,
+Benjamín Juárez
+Juan Ignacio Rodríguez
+Gustavo Furrer
+
+---
+
+Somos alumnos regulares de la UNC, y queremos realizar un trabajo académico sobre Gestión de la Información. 
+
+Es la tesis para recibirnos en la carrera Analista Universitario de Sistemas Informáticos. En tu empresa, nos permitirían acceder a entrevistas para hacer un análisis de la gestión de la información?
+
+Nos comprometemos a:
+* Usar tiempos de entrevista discretos para entender las mecánicas de la organización, sin necesidad de acceder a datos sensibles y únicos propios de la gestión interna.
+* Observar las actividades normales de la organización, respetando su funcionamiento cotidiano, sin obstaculazirla.
+* El cuidado, preservación y confidencialidad de la información surgida durante la realización del trabajo.
+
+Nos gustaría reunirnos con alguna persona de la organización que pudiera decidir autorizarnos, para comentarle un poco más sobre el alcance de la tesis. 
+
+Sería un honor realizar la tesis final en su organización.
+
+
+
+
+
+
+
+
+
 panino.2.4
 panino2020
 
 ---
 
-TURNO NOTIFICADO
-Ha realizado previamente su inscripción para la vacunación voluntaria y se le ha notificado sobre su turno para el día 07/09/2021 - Capital-Comedor Universitario-15 a 16 hs-AstraZeneca-Segunda-Depto:Capital-Loc:Cordoba
-Puede acceder a la notificación enviada ingresando a sus comunicaciones recibidas en CIDI
+## Práctica Profesional 2021-09-10
+
+no somos administradores. 
+no podemos armar algo desde cero.
+
+las empresas chicas nuevas tiene menos estructura, son más fluidas. 
+
+farmacia, gestión, producto, es despelote.
+temas sensibles como fechas de vencimiento. 
+
+vivero valls
+mayorista minorista tiene doble faz
+eso lo hace interesante
+es un comercio, como un super.
+oregano fresco y seco.
+manejo de plagas, si lo hacen.
+
+http://www.apross.gov.ar/code/Prestadores?AspxAutoDetectCookieSupport=1
+
+ANGELETTI LUISINA	KINESIOLOGIA	KINESIOLOGIA	0351-4235806	INDEPENDENCIA N 541	CORDOBA	CAPITAL
+
 
 ---
 
@@ -22,6 +151,7 @@ web app: angular + vue.js + material
 html + js + jquery
 
 1.15
+---
 
 Córdoba, MES de 2021
 
