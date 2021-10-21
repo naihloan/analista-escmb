@@ -39,3 +39,27 @@ límite marca lo incluido y lo excluido
 cuidado con el relevamiento y la indecisión.
 aclarar lo vago.
 
+---
+
+## Devolución de mandato de otro grupo
+
+### Alcance
+lo primero que se deberían crear son los procesos. o procedimientos?
+ESTO: sistema de roles y usarios, si quiero empezar por lo tecnológico.
+
+parcial con materiales. de las ultimas 2 unidades: 6 y 7.
+un poco de sistemas. para responder con tranquilidad.
+cierre el día lunes 25 de octubre.
+
+en esta etapa
+es bueno plantear el mandato ante la organización,
+para ver la reacción
+aunque sea una versión preliminar
+
+después con el diagnóstico ampliado
+se puede hacer algo más fino,
+y ver esa reacción posterior, para comparar
+
+
+
+
