@@ -1,0 +1,14 @@
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.csprojAssemblyReference.cache
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.csproj.CoreCompileInputs.cache
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.exe.config
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.exe
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.pdb
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.exe
+C:\Users\LG\Desktop\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.pdb
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.exe.config
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.exe
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\bin\Debug\ManuelBelgrano.GhioneLuciano.pdb
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.exe
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\lucho\ManuelBelgrano\ManuelBelgrano.GhioneLuciano\obj\Debug\ManuelBelgrano.GhioneLuciano.pdb

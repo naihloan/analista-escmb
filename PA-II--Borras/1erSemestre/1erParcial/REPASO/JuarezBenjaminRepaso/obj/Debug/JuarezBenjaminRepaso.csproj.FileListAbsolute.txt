@@ -1,0 +1,7 @@
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\bin\Debug\JuarezBenjaminRepaso.exe.config
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\bin\Debug\JuarezBenjaminRepaso.exe
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\bin\Debug\JuarezBenjaminRepaso.pdb
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\obj\Debug\JuarezBenjaminRepaso.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\obj\Debug\JuarezBenjaminRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\obj\Debug\JuarezBenjaminRepaso.exe
+C:\Users\Andy\Downloads\shashi\ProgramacionAplicada2\1erParcial\REPASO\JuarezBenjaminRepaso\obj\Debug\JuarezBenjaminRepaso.pdb
