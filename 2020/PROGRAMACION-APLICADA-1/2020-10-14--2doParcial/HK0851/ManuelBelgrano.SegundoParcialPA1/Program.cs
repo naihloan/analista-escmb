@@ -9,6 +9,7 @@ using ManuelBelgrano.Ahorcadito;
 
 namespace ManuelBelgrano.SegundoParcialPA1
 {
+
 	/*
 	CONSIGNA:
 	Mediante el método File.ReadAllLines(...) leer el archivo asociado "palabras.txt", en dónde en cada línea hay una palabra y almacenarlo en una variable llamada string[] palabras.Luego generar los métodos para:
