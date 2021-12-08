@@ -46,25 +46,25 @@ La relación entre Clientes y Sucursales es una relación de muchos a muchos (N,
 
 #### Escribe en SQL la siguiente consulta:  \n "Lista los Vehículos vendidos incluyendo Marca y Modelo" . | 20 puntos
 
-SELECT ID_Producto
-FROM Venta
-WHERE Condicion = 'vendido'
-AND (
-    Marca FROM Vehiculo AND
-    Modelo FROM Vehiculo
+SELECT ID_Producto  
+FROM Venta  
+WHERE Condicion = 'vendido'  
+AND (  
+    Marca FROM Vehiculo AND  
+    Modelo FROM Vehiculo  
 )
 
 #### Escribe en SQL la siguiente consulta:  \n "Lista los vehículos incluyendo Marca y Modelo" | 20 puntos
 
-SELECT
-(Marca AND Modelo)
+SELECT  
+(Marca AND Modelo)  
 FROM Vehiculo
 
 #### Escribe en SQL la siguiente consulta:  \n "Designaciones de empleados en cargos" 
 
 Nota: Los empleados aparecían en la tabla original sin cargos. Acá se toma ese campo para hacer consulta. A futuro puede crearse este atributo.
 
-SELECT Nombre, Apellido
-FROM Empleado
+SELECT Nombre, Apellido  
+FROM Empleado  
 WHERE Cargo IS NOT NULL;
 
