@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
 namespace ManuelBelgrano.Examen
 {
@@ -11,7 +11,7 @@ namespace ManuelBelgrano.Examen
         public static string IngresoString(string mensaje)
         {
             string ingreso = null;
-            while (string.IsNullOrWhiteSpace(ingreso))
+            while (string.IsNullOrWhiteSpace(ingreso)) // el nombre no acepta espacios vacios
             {
                 Console.WriteLine(mensaje);
                 ingreso = Console.ReadLine();
@@ -27,7 +27,7 @@ namespace ManuelBelgrano.Examen
         public static double IngresoDouble(string mensaje)
         {
             double salida;
-            salida = IngresoDouble(double.MinValue, double.MaxValue, mensaje);
+            salida = IngresoDouble(double.MinValue, double.MaxValue, mensaje); // las notas tienen que ser en un rango definido 
             return salida;
         }
         public static double IngresoDouble(double valordesde, double valorHasta)
