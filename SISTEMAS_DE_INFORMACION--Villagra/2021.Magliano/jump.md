@@ -1,0 +1,22 @@
+## Sistemas De Información
+
+Los sistemas formados por personas (organizaciones - SI), se asumen DINÁMICOS e INTERDISCIPLINARES. Al igual que los sistemas se componen de un OBJETIVO u OBJETIVOS y una ESTRUCTURA.
+
+El objetivo responde al QUÉ y representa la existencia de ser y la motivación para la acción. Luego la ESTRUCTURA, que responde a estos objetivos planteados; que son definidos por COMPONENTES y RELACIONES.
+
+Los COMPONENTES, son los elementos internos o subsistemas, organizados según sus propiedades y fin (acorde a la actividad del sistema). Aquí existen dos tipos: 
+
+## Los *Componentes De Decisión* y *Componentes De Ejecución*
+
+Los componentes de decisión o PUNTOS FOCALES DE RESPONSABILIDAD [PFR], son componentes de toma de decisiones. Éstos están distribuidos en toda la organización y ejercen en mayor o menor medida dependiendo de su posición el gobierno de la organización.
+
+El otro tipo de componente son los de EJECUCIÓN. Éstos son de ORDEN OPERACIONAL y procesan bienes o servicios, sujetos a los objetivos planteados (y las decisiones tomadas por los PFR).
+
+Las RELACIONES, define la interacción entre los elementos descritos anteriormente. Dada la naturaleza dinámica de la estructura, las relaciones cubre todas las formas de vinculación entre estos componentes (flujos de datos, flujos de decisiones, retroalimentación de esas decisiones, flujos de bienes/servicios, etc). Las relaciones dan lugar a los COMPORTAMIENTOS dentro del sistema.
+
+Resumiendo: media la actuación entre componentes entre sí, la transferencia entre componentes, las decisiones y efectos de las mismas. Ordena la dependencia funcional. Define comportamiento. Y provee una vinculación de afectación del contexto hacia los componentes (sistema <-- contexto).
+
+<div style="page-break-after: always;"></div>
+
+\pagebreak
+\newpage
