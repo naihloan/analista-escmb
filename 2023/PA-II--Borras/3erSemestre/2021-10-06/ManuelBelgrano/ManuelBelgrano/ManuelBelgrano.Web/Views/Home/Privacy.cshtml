@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Política de Privacidad";   
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Usar esta página para la declaración de privacidad.</p>
+<div class="row">
+    <div class="col-md-4">Aca ocupo cuatro espacios</div>
+    <div class="col-md-8">Aca ocupo ocho espacios</div>
+</div>
+@for (int i = 0; i < 10; i++) {
+    if (i % 2 == 0) { 
+<p>El valor de i es: @i es par</p>
+    }
+    
+}

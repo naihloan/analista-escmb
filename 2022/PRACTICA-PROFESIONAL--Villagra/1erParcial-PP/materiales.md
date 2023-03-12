@@ -1,9 +1,0 @@
-1erParcial-PP.pdf
-PP-2020-01-PM.pdf
-PP-2020-02-PM.pdf
-PP-2020-FODA-01-.pdf
-PP-2020-FODA-02-.pdf
-PP-Grupos-y-Equipos.44.pdf
-UNC-PP-PMI-libros_pmbok_guide5th_spanish[028-045].pdf
-UNC-PP-PMI-libros_pmbok_guide5th_spanish[046-073].pdf
-materiales.md
