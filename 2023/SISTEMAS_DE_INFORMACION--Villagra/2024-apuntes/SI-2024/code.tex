@@ -1,0 +1,70 @@
+\usepackage{charter} % Use the Charter font
+\usepackage{amsmath}
+\usepackage{hyperref} 
+\hypersetup{%
+  colorlinks=false,% hyperlinks will be coloured
+  linkcolor=black,% hyperlink text will be green
+  %linkbordercolor=red,% hyperlink border will be red
+}
+
+\usepackage[english,spanish.notilde.lcroman,shorthands=off]{babel}
+\usepackage[raggedright]{titlesec}
+
+
+% \makeatletter
+% \Hy@AtBeginDocument{%
+%   \def\@pdfborder{0 0 1}% Overrides border definition set with colorlinks=true
+%   \def\@pdfborderstyle{/S/U/W 1}% Overrides border style set with colorlinks=true
+%                                 % Hyperlink border style will be underline of width 1pt
+% }
+% \makeatother
+
+
+\usepackage[
+	a4paper, % Paper size
+	top=1in, % Top margin
+	bottom=1in, % Bottom margin
+	left=0.5in, % Left margin
+	right=0.5in, % Right margin
+	%showframe % Uncomment to show frames around the margins for debugging purposes
+]{geometry}
+
+\setlength{\parindent}{0pt} % Paragraph indentation
+\setlength{\parskip}{1em} % Vertical space between paragraphs
+
+\usepackage{graphicx} % Required for including images
+
+\usepackage{fancyhdr} % Required for customizing headers and footers
+
+\fancypagestyle{firstpage}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{0pt} % No header rule
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\fancypagestyle{subsequentpages}{%
+	\fancyhf{} % Clear default headers/footers
+	\renewcommand{\headrulewidth}{1pt} % Header rule thickness
+	\renewcommand{\footrulewidth}{1pt} % Footer rule thickness
+}
+
+\AtBeginDocument{\thispagestyle{firstpage}} % Use the first page headers/footers style on the first page
+\pagestyle{subsequentpages} % Use the subsequent pages headers/footers style on subsequent pages
+
+%----------------------------------------------------------------------------------------
+
+\setlength{\columnsep}{20pt}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	FIRST PAGE HEADER
+%----------------------------------------------------------------------------------------
+
+%\includegraphics[width=0.35\textwidth]{pic.png} % Logo
+
+\vspace{-1em} % Pull the rule closer to the logo
+
+\rule{\linewidth}{1pt} % Horizontal rule
+
+\bigskip\bigskip % Vertical whitespace
