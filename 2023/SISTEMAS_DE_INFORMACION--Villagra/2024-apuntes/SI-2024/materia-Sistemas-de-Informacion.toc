@@ -23,12 +23,12 @@
 \contentsline {section}{\numberline {5}Sistema de Información}{7}{section.5}%
 \contentsline {subsection}{Pirámide de Información}{7}{section*.4}%
 \contentsline {section}{\numberline {6}Sistema de Información como Sistematización de Información (6)}{7}{section.6}%
-\contentsline {subsection}{Sistema de Procesamiento de Transacciones {[}TPS{]}}{7}{section*.5}%
-\contentsline {subsection}{Sistema de Control de Proceso de Negocio {[}BPM{]}}{7}{section*.5}%
-\contentsline {subsection}{Sistema de Colaboración Empresarial {[}ERP{]}}{7}{section*.5}%
-\contentsline {subsection}{Sistema de Información de Gestión {[}MIS{]}}{8}{section*.5}%
-\contentsline {subsection}{Sistema de Información de Apoyo a la Toma de Decisiones [DSS]}{8}{section*.5}%
-\contentsline {subsection}{Sistema de Información Ejecutiva [EIS]}{8}{section*.5}%
+\contentsline {subsection}{{[}TPS{]} | Sistema de Procesamiento de Transacciones }{7}{section*.5}%
+\contentsline {subsection}{{[}BPM{]} | Sistema de Control de Proceso de Negocio }{7}{section*.5}%
+\contentsline {subsection}{{[}ERP{]} | Sistema de Colaboración Empresarial }{7}{section*.5}%
+\contentsline {subsection}{{[}MIS{]} | Sistema de Información de Gestión }{8}{section*.5}%
+\contentsline {subsection}{{[}DSS{]} | Sistema de Información de Apoyo a la Toma de Decisiones }{8}{section*.5}%
+\contentsline {subsection}{{[}EIS{]} | Sistema de Información Ejecutiva }{8}{section*.5}%
 \contentsline {section}{\numberline {7}Niveles Jerárquicos de la Información}{8}{section.7}%
 \contentsline {section}{\numberline {8}Tipos de Información [NOR PLA REL OPER CyG II]}{8}{section.8}%
 \contentsline {subsection}{Información Normativa}{9}{section*.6}%
