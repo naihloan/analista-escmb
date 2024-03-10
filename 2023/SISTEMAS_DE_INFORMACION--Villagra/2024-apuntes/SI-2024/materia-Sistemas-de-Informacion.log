@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.1)  10 MAR 2024 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.1)  10 MAR 2024 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -269,36 +269,34 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks22
 \inpenc@posthook=\toks23
 )
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box52
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
-\ttl@plus=\dimen153
-\ttl@minus=\dimen154
-\ttl@toksa=\toks24
-\titlewidth=\dimen155
-\titlewidthlast=\dimen156
-\titlewidthfirst=\dimen157
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 )
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count283
-\Gm@cntv=\count284
-\c@Gm@tempcnt=\count285
-\Gm@bindingoffset=\dimen158
-\Gm@wd@mp=\dimen159
-\Gm@odd@mp=\dimen160
-\Gm@even@mp=\dimen161
-\Gm@layoutwidth=\dimen162
-\Gm@layoutheight=\dimen163
-\Gm@layouthoffset=\dimen164
-\Gm@layoutvoffset=\dimen165
-\Gm@dimlist=\toks25
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks24
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -317,51 +315,54 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen166
-\Gin@req@width=\dimen167
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box52
 )
-(./materia-Sistemas-de-Informacion.aux)
+(./materia-Sistemas-de-Informacion.aux
+
+LaTeX Warning: Label `adaptabilidad' multiply defined.
+
+)
 \openout1 = `materia-Sistemas-de-Informacion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-Package hyperref Info: Link coloring OFF on input line 62.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+Package hyperref Info: Link coloring OFF on input line 69.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -370,11 +371,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count287
+\c@section@level=\count288
 )
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
 
 (./materia-Sistemas-de-Informacion.out) (./materia-Sistemas-de-Informacion.out)
 \@outlinefile=\write3
@@ -416,17 +417,17 @@ LaTeX Info: Redefining \nameref on input line 62.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen168
-\scratchbox=\box54
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen169
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count289
+\scratchdimen=\dimen163
+\scratchbox=\box53
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen164
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -438,663 +439,393 @@ e
 )))
 (./materia-nombre-carrera.tex) (./materia-Sistemas-de-Informacion.toc [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2])
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `materia-Sistemas-de-Informacion.toc'.
 
- [3] (./SI-2024-01.tex
+ [2] (./SI-2024-01.tex [3
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 1
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+)
+Underfull \hbox (badness 3679) in paragraph at lines 21--21
+[]\T1/bch/b/n/14.4 Características de los Sistemas
+ []
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 25.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 29.
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 33--36
+ []\T1/bch/b/n/10 Estabilidad[][] \T1/bch/m/n/10 Ante los embates del entorno, 
+se debe
+ []
+
+
+Overfull \hbox (1.72789pt too wide) in paragraph at lines 43--43
+[]\T1/bch/b/n/14.4 Cómo sabemos si una organización
+ []
+
+
+Overfull \hbox (1.96786pt too wide) in paragraph at lines 43--43
+\T1/bch/b/n/14.4 funciona como Sistema? Principios
+ []
+
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 46.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 50.
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 58--59
+ []\T1/bch/b/n/10 Determinismo[][] \T1/bch/m/n/10 Regla de oro: nada en sistema
+s es
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 90.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[][]\T1/bch/b/n/12 Gradación de fines para componentes
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 108.
+
 [4
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+bch on input line 9
-.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd
-File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
-)
-Overfull \hbox (15.00462pt too wide) in paragraph at lines 14--15
-[]\T1/bch/m/n/10 Tiene que haber cohesión e integración, sin islas aisladas 
- []
-
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 22.
+(hyperref)                than one, level fixed on input line 168.
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 22.
-
-
-Overfull \hbox (10.31456pt too wide) in paragraph at lines 23--25
-\T1/bch/m/n/10 de recursos, sin malgastarlos al cumplir objetivos del sistema. 
-
+Underfull \hbox (badness 1931) in paragraph at lines 173--176
+ []\T1/bch/b/n/10 Equilibradora[][] \T1/bch/m/n/10 Garantiza el equilibrio a la
+ hora de
  []
 
 
-Overfull \hbox (16.84058pt too wide) in paragraph at lines 28--30
-\T1/bch/m/n/10 Capacidad del sistema de ser flexible ante el entorno dinámico. 
-
+Underfull \hbox (badness 6032) in paragraph at lines 179--187
+ []\T1/bch/b/n/10 Coordinadora[][] \T1/bch/m/n/10 Todos los componentes del sis
+tema
  []
 
 
-Overfull \hbox (0.24461pt too wide) in paragraph at lines 33--35
-\T1/bch/m/n/10 Ante los embates del entorno, se debe mantener la eficacia. 
+Underfull \hbox (badness 1418) in paragraph at lines 194--197
+ []\T1/bch/b/n/10 FODA. \T1/bch/m/n/10 Todo FODA tiene que ver con planificació
+n,
  []
 
+
+Underfull \hbox (badness 1057) in paragraph at lines 201--208
+\T1/bch/m/n/10 de equipos y de grupos: la realización personal, la
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 201--208
+\T1/bch/m/n/10 que haya trabajo en equipo, y que se aseguren las
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 232--238
+\T1/bch/m/n/10 Es el sistema encargado de definir como se van a
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 239--243
+\T1/bch/m/n/10 tenemos 2 opciones. Usar modelos ya existentes y
+ []
+
+[5]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 47.
+(hyperref)                than one, level fixed on input line 260.
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 47.
-
-
-Overfull \hbox (48.88116pt too wide) in paragraph at lines 56--57
-\T1/bch/m/n/10 de otro sistema. Debe haber relacionamiento, e inter relacionami
-ento:
+Underfull \hbox (badness 1701) in paragraph at lines 260--264
+ []\T1/bch/b/n/10 Información Normativa[][] \T1/bch/m/n/10 A la información que
+ baja
  []
 
 
-Overfull \hbox (37.81729pt too wide) in paragraph at lines 78--80
-[]\T1/bch/b/n/10 Motivo Instrumental. \T1/bch/m/n/10 Trabajar con sistemas da h
-erramientas
- []
-
-[5
-
-]
-Overfull \hbox (15.26459pt too wide) in paragraph at lines 102--105
-\T1/bch/m/n/10 organización, y lo mismo se puede hacer con los componentes.
+Underfull \hbox (badness 6493) in paragraph at lines 277--277
+[]\T1/bch/b/n/14.4 Sistema de Información como
  []
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 137.
-
-
-Overfull \hbox (14.95058pt too wide) in paragraph at lines 152--156
-\T1/bch/m/n/10 cuenta información objetiva (como estadísticas de conductas),
+Underfull \hbox (badness 4660) in paragraph at lines 277--277
+\T1/bch/b/n/14.4 Sistematización de Información
  []
 
 
-Overfull \hbox (6.90738pt too wide) in paragraph at lines 159--161
-[]\T1/bch/b/n/10 Maximizadora. \T1/bch/m/n/10 Se pretende maximizar los benefic
-ios,
+Underfull \hbox (badness 7777) in paragraph at lines 283--283
+[][]\T1/bch/b/n/12 [TPS] | Sistema de Procesamiento de
  []
 
 
-Overfull \hbox (2.59467pt too wide) in paragraph at lines 165--173
-\T1/bch/m/n/10 llegar al objetivo, de manera coordinar entre las áreas
+Underfull \hbox (badness 2818) in paragraph at lines 300--310
+\T1/bch/m/n/10 Este sistema se enfoca en procesos específicos, no
  []
 
 
-Overfull \hbox (0.54735pt too wide) in paragraph at lines 173--176
-[]\T1/bch/b/n/10 Impulsora. \T1/bch/m/n/10 Se potencian los resultados de las p
-artes,
+Underfull \hbox (badness 1205) in paragraph at lines 300--310
+\T1/bch/m/n/10 en muchos, sino en los que lleva adelante personal
  []
 
 
-Overfull \hbox (3.30528pt too wide) in paragraph at lines 178--181
-\T1/bch/m/n/10 las fortalezas, amenazas, compete a planificación. Es bueno
+Underfull \hbox (badness 1648) in paragraph at lines 300--310
+\T1/bch/m/n/10 que pueden llegar a necesitar un control más fino,
  []
 
 
-Overfull \hbox (9.0346pt too wide) in paragraph at lines 185--192
-\T1/bch/m/n/10 punto temas de especialización, asegurando que las personas
+Underfull \hbox (badness 1297) in paragraph at lines 300--310
+\T1/bch/m/n/10 más fijo y más estable en el tiempo según algunos
  []
 
 
-Overfull \hbox (9.08057pt too wide) in paragraph at lines 185--192
-\T1/bch/m/n/10 especializadas se asignen al área en que están especializadas.
+Underfull \hbox (badness 2799) in paragraph at lines 300--310
+\T1/bch/m/n/10 condicionamiento, dentro ciertos valores mínimos o
  []
 
 
-Overfull \hbox (9.00063pt too wide) in paragraph at lines 196--201
-\T1/bch/m/n/10 Acá está la comparación permanente entre lo que se planificó
+Underfull \hbox (badness 1789) in paragraph at lines 317--326
+\T1/bch/m/n/10 Este sistema no pertenece a un nivel, sino que es
  []
 
 
-Overfull \hbox (11.97258pt too wide) in paragraph at lines 196--201
-\T1/bch/m/n/10 desvíos de tiempo, de recursos, de personas, de rendimientos.
+Underfull \hbox (badness 1242) in paragraph at lines 317--326
+\T1/bch/m/n/10 Entonces este sistema habilita la comunicación entre
  []
 
 
-Overfull \hbox (35.03723pt too wide) in paragraph at lines 196--201
-\T1/bch/m/n/10 en movimiento lo que se pautó desde la planificación. Planificac
-ión
+Underfull \hbox (badness 1769) in paragraph at lines 337--342
+\T1/bch/m/n/10 sino que va a sacar la información del sistema de
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 337--342
+\T1/bch/m/n/10 procesamiento de transacciones, y en base a esta
  []
 
 [6]
-Overfull \hbox (11.35457pt too wide) in paragraph at lines 207--212
-[]\T1/bch/m/n/10 El modelo anglosajón además de detectar los desvíos, acciona
+Overfull \hbox (18.5183pt too wide) in paragraph at lines 400--400
+[]\T1/bch/b/n/14.4 Niveles Jerárquicos de la Información 
  []
 
 
-Overfull \hbox (10.6973pt too wide) in paragraph at lines 207--212
-\T1/bch/m/n/10 donde la ejecución se adeqúe al plan. Un control sin feedback
- []
-
-
-Overfull \hbox (11.33455pt too wide) in paragraph at lines 216--222
-\T1/bch/m/n/10 las actividades diarias de la empresa, es decir las operaciones.
+Underfull \hbox (badness 6842) in paragraph at lines 437--441
+ []\T1/bch/b/n/10 Información Normativa \T1/bch/m/n/10 La información normativa
 
  []
 
 
-Overfull \hbox (2.91063pt too wide) in paragraph at lines 216--222
-\T1/bch/m/n/10 El sistema operativo es un sistema que diagrama el analista,
+Underfull \hbox (badness 2384) in paragraph at lines 459--463
+ []\T1/bch/b/n/10 Información Operacional \T1/bch/m/n/10 Este es el efecto de l
+as
  []
 
 
-Overfull \hbox (2.79129pt too wide) in paragraph at lines 216--222
-\T1/bch/m/n/10 actividad de la empresa, la actividad cotidiana. Por ejemplo
+Underfull \hbox (badness 1552) in paragraph at lines 473--481
+\T1/bch/m/n/10 para las personas que toman decisiones y necesitan
  []
 
 
-Overfull \hbox (5.82726pt too wide) in paragraph at lines 223--227
-\T1/bch/m/n/10 tenemos 2 opciones. Usar modelos ya existentes y probados,
+Underfull \hbox (badness 1558) in paragraph at lines 473--481
+\T1/bch/m/n/10 saber el estado real de una organización. Es una
  []
 
 
-Overfull \hbox (21.5606pt too wide) in paragraph at lines 231--235
-\T1/bch/m/n/10 PIOCO, ahora ponemos lupa dentro de sistemas de información,
+Underfull \hbox (badness 1622) in paragraph at lines 485--490
+\T1/bch/m/n/10 que se hayan iniciado desde distintos niveles de la
  []
 
+[7] [8
 
-Overfull \hbox (0.80063pt too wide) in paragraph at lines 231--235
-\T1/bch/m/n/10 y vamos a ver qué tipos de sistemas de información existen. 
- []
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 238.
-
-
-Overfull \hbox (3.57129pt too wide) in paragraph at lines 240--243
-\T1/bch/m/n/10 noción general. Desde la idea de pirámide, hay información
- []
-
-
-Overfull \hbox (20.14006pt too wide) in paragraph at lines 244--248
-[]\T1/bch/m/n/10 A la información que baja la vamos a llamar \T1/bch/m/it/10 de
-terminativa
- []
-
-
-Overfull \hbox (1.87868pt too wide) in paragraph at lines 244--248
-\T1/bch/m/n/10 ó \T1/bch/m/it/10 normativa\T1/bch/m/n/10 , que baja directrices
-, condicionamientos,
- []
-
-
-Overfull \hbox (23.81006pt too wide) in paragraph at lines 248--255
-[]\T1/bch/m/n/10 A la información que sube la vamos a llamar \T1/bch/m/it/10 in
-terpretativa\T1/bch/m/n/10 ,
- []
-
-
-Overfull \hbox (16.98059pt too wide) in paragraph at lines 248--255
-\T1/bch/m/n/10 estas informaciones que suben para visibilizar los desvíos
- []
-
-
-Overfull \hbox (0.94469pt too wide) in paragraph at lines 248--255
-\T1/bch/m/n/10 para que se tomen decisiones de gestión, de gerencia,
- []
-
-
-Overfull \hbox (21.85136pt too wide) in paragraph at lines 248--255
-\T1/bch/m/n/10 y ejecutivos. Puede subir hasta muy arriba, o simplemente
- []
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 267.
-
-
-Overfull \hbox (9.77455pt too wide) in paragraph at lines 284--294
-\T1/bch/m/n/10 Este sistema se enfoca en procesos específicos, no en muchos,
- []
-
-
-Overfull \hbox (10.1686pt too wide) in paragraph at lines 284--294
-\T1/bch/m/n/10 valores objetivos, como temperatura, o componentes adentro
- []
-
-
-Overfull \hbox (9.30725pt too wide) in paragraph at lines 284--294
-\T1/bch/m/n/10 aceptables. Estas condiciones puede darse por una definición
- []
-
-
-Overfull \hbox (9.30457pt too wide) in paragraph at lines 284--294
-\T1/bch/m/n/10 algún otro condicionamiento, dentro ciertos valores mínimos
- []
-
-
-Overfull \hbox (3.22462pt too wide) in paragraph at lines 301--310
-\T1/bch/m/n/10 Este sistema no pertenece a un nivel, sino que es transversal
- []
-
-
-Overfull \hbox (8.63722pt too wide) in paragraph at lines 301--310
-\T1/bch/m/n/10 ejecutivos hasta los niveles operativos. Entonces este sistema
- []
-
-[7]
-Overfull \hbox (6.46054pt too wide) in paragraph at lines 317--320
-\T1/bch/m/n/10 tomar decisiones sobre la gestión operacional de la empresa. 
- []
-
-
-Overfull \hbox (0.60062pt too wide) in paragraph at lines 321--326
-\T1/bch/m/n/10 que va a sacar la información del sistema de procesamiento
- []
-
-
-Overfull \hbox (8.84859pt too wide) in paragraph at lines 321--326
-\T1/bch/m/n/10 de transacciones, y en base a esta información, estos outputs,
- []
-
-
-Overfull \hbox (14.33734pt too wide) in paragraph at lines 331--335
-\T1/bch/m/n/10 gerente? Se acude cuando hay un escenario de incertidumbre.
- []
-
-
-Overfull \hbox (1.5946pt too wide) in paragraph at lines 342--348
-\T1/bch/m/n/10 a tomar decisiones en cualquier contexto, sino en contextos
- []
-
-
-Overfull \hbox (6.35721pt too wide) in paragraph at lines 349--354
-\T1/bch/m/n/10 predecir posibles escenarios. Porque se va a estar trabajando
- []
-
-
-Overfull \hbox (12.2106pt too wide) in paragraph at lines 361--368
-\T1/bch/m/n/10 solamente ya se tiene que poder saber cómo viene la empresa.
- []
-
-
-Overfull \hbox (17.76453pt too wide) in paragraph at lines 361--368
-\T1/bch/m/n/10 definen el tipo de objetivo estratégico, y los niveles estratégi
-cos
- []
-
-
-Overfull \hbox (0.15466pt too wide) in paragraph at lines 376--379
-\T1/bch/m/n/10 porque tengan poca información, o porque abarquen pocas
- []
-
-
-Overfull \hbox (8.93459pt too wide) in paragraph at lines 393--395
-[]\T1/bch/m/n/10 Pero además de todo lo anterior, también se pueden clasificar
- []
-
-
-Overfull \hbox (25.84721pt too wide) in paragraph at lines 418--421
-\T1/bch/m/n/10 la organización. Si ponemos el microscopio en una organización,
- []
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 423.
-
-[8]
-Overfull \hbox (31.55054pt too wide) in paragraph at lines 429--431
-[]\T1/bch/m/n/10 La información normativa después se relaciona con la informaci
-ón
- []
-
-
-Overfull \hbox (5.2006pt too wide) in paragraph at lines 446--449
-\T1/bch/m/n/10 Esta información da cuenta de la transferencia de elementos
- []
-
-
-Overfull \hbox (3.7406pt too wide) in paragraph at lines 450--454
-[]\T1/bch/m/n/10 Este es el efecto de las actividades planificadas y ejecutadas
-.
- []
-
-
-Overfull \hbox (6.70729pt too wide) in paragraph at lines 459--462
-\T1/bch/m/n/10 planificado y lo ejecutado. Esta es la información ya medida,
- []
-
-
-Overfull \hbox (9.41466pt too wide) in paragraph at lines 466--474
-\T1/bch/m/n/10 de un cronómetro, hay que comparar cantidades con tiempos
- []
-
-
-Overfull \hbox (23.83054pt too wide) in paragraph at lines 479--484
-\T1/bch/m/n/10 Esta información es el resultado de procesos de experimentación
- []
-
-
-Overfull \hbox (7.7706pt too wide) in paragraph at lines 479--484
-\T1/bch/m/n/10 y de indagación que se hayan iniciado desde distintos niveles
- []
-
-[9]) (./SI-2024-02.tex [10
+]) (./SI-2024-02.tex [9
 
 
 ]
-Overfull \hbox (9.4146pt too wide) in paragraph at lines 12--21
-\T1/bch/m/n/10 las necesidades del cliente, mientras se cumpla la adecuación
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 65.
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 69--75
+ []\T1/bch/b/n/10 Corrección[][] \T1/bch/m/n/10 Que el sistema funcione en térm
+inos y
  []
 
 
-Overfull \hbox (16.304pt too wide) in paragraph at lines 12--21
-\T1/bch/m/n/10 que es la ISO 25010, que contempla cuáles son esos estándares
+Underfull \hbox (badness 1122) in paragraph at lines 77--83
+\T1/bch/m/n/10 según lo definido previamente. Que el sistema sea
  []
 
 
-Overfull \hbox (10.29462pt too wide) in paragraph at lines 22--24
-[]\T1/bch/m/n/10 Ahora vamos a nombrar cuáles son esas facetas, para después
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 97.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--105
+ []\T1/bch/b/n/10 Capacidad[][] \T1/bch/m/n/10 Como parte del desempeño está la
+
  []
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 49.
-
-
-Overfull \hbox (2.64728pt too wide) in paragraph at lines 51--58
-\T1/bch/m/n/10 estableció previamente. No se compara con algo estándard,
+Underfull \hbox (badness 1412) in paragraph at lines 97--105
+\T1/bch/m/n/10 capacidad, de cuál es el límite máximo del que es
  []
 
 
-Overfull \hbox (28.48058pt too wide) in paragraph at lines 51--58
-\T1/bch/m/n/10 sino que se compara con algo definido en la etapa de negociación
-.
+Underfull \hbox (badness 1448) in paragraph at lines 128--131
+\T1/bch/m/n/10 En este apartado, al referirnos a usabilidad se está
  []
 
 
-Overfull \hbox (2.0906pt too wide) in paragraph at lines 51--58
-\T1/bch/m/n/10 Con la adecuación funcional se va a comprobar si el sistema
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 134.
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 134--141
+ []\T1/bch/b/n/10 Accesibilidad[][] \T1/bch/m/n/10 Si un usuario quire usar el 
+software,
  []
 
-
-Overfull \hbox (0.20737pt too wide) in paragraph at lines 67--72
-\T1/bch/m/n/10 niveles de precisión definidos previamente. Se puede
- []
-
-
-Overfull \hbox (8.80733pt too wide) in paragraph at lines 72--75
-[]\T1/bch/b/n/10 Pertinencia. \T1/bch/m/n/10 Es la adecuación de estas funciona
-lidades
- []
-
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 91.
-
-
-Overfull \hbox (18.39064pt too wide) in paragraph at lines 93--101
-\T1/bch/m/n/10 reacción ante una solicitud sea entre 1 segundo y 1,3 segundos.
- []
-
-
-Overfull \hbox (19.67078pt too wide) in paragraph at lines 103--117
-\T1/bch/m/n/10 negocie tiene que quedar plasmado en documentos,
- []
-
-
-Overfull \hbox (1.65459pt too wide) in paragraph at lines 122--125
-\T1/bch/m/n/10 En este apartado, al referirnos a usabilidad se está teniendo
- []
-
-
-Overfull \hbox (35.00061pt too wide) in paragraph at lines 122--125
-\T1/bch/m/n/10 en cuenta la experiencia del usuario [UX]. Hay varios componente
-s
- []
-
-[11
+[10
 
 ]
-Overfull \hbox (8.62073pt too wide) in paragraph at lines 136--158
-\T1/bch/m/n/10 entorno tiene que dar herramientas para que el usuario
+Underfull \hbox (badness 3579) in paragraph at lines 142--149
+ []\T1/bch/b/n/10 Aprendizabilidad[][] \T1/bch/m/n/10 El software tiene que pod
+er ser
  []
 
 
-Overfull \hbox (7.4007pt too wide) in paragraph at lines 136--158
-\T1/bch/m/n/10 El usuario también tiene que reconocer que el software
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 174.
+
+
+Overfull \hbox (10.23067pt too wide) in paragraph at lines 174--183
+ []\T1/bch/b/n/10 Coexistencia[][] \T1/bch/m/n/10 La palabra clave que va con l
+a compatibilidad
  []
 
 
-Overfull \hbox (1.47742pt too wide) in paragraph at lines 136--158
-\T1/bch/m/n/10 es apropiado. Acá se vuelve al tema de la adecuación,
+Underfull \hbox (badness 1184) in paragraph at lines 192--206
+[]\T1/bch/b/n/10 Cuándo salta la incompatibilidad de un
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{adaptabilidad
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.221 ...raph{Adaptabilidad}\label{adaptabilidad}}
+                                                  
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 222.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+\T1/bch/m/n/10 en diferentes condiciones de hardware, software,
  []
 
 
-Overfull \hbox (31.34735pt too wide) in paragraph at lines 166--175
-[]\T1/bch/b/n/10 Coexistencia. \T1/bch/m/n/10 La palabra clave que va con la co
-mpatibilidad
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 235.
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 248--250
+ []\T1/bch/b/n/10 Analizabilidad[][] \T1/bch/m/n/10 Si quiero ver una sola func
+ión del
  []
 
 
-Overfull \hbox (1.44469pt too wide) in paragraph at lines 175--180
-\T1/bch/m/n/10 o extraer información, el software tiene que ser capaz
+Underfull \hbox (badness 1158) in paragraph at lines 248--250
+\T1/bch/m/n/10 software, debe ser posible aislarla para observarla y
  []
 
+[11]
 
-Overfull \hbox (23.7208pt too wide) in paragraph at lines 183--195
-[]\T1/bch/b/n/10 Cuándo salta la incompatibilidad de un software?
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 288.
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 299--303
+ []\T1/bch/b/n/10 Prevenir accesos sin autorización[][] \T1/bch/m/n/10 El siste
+ma debe
  []
 
-
-Overfull \hbox (46.64467pt too wide) in paragraph at lines 183--195
-\T1/bch/m/n/10 tengan formatos diferentes, lo que los hace incompatibles.
- []
-
-
-Overfull \hbox (18.47739pt too wide) in paragraph at lines 183--195
-\T1/bch/m/n/10 competencia. Son incompatibles intencionalmente.
- []
-
-
-Overfull \hbox (5.56476pt too wide) in paragraph at lines 183--195
-\T1/bch/m/n/10 un nuevo software, entender cuáles son los otros
- []
-
-
-Overfull \hbox (2.12747pt too wide) in paragraph at lines 183--195
-\T1/bch/m/n/10 funcionen en conjunto. No es algo que se pueda
- []
-
-
-Overfull \hbox (20.36456pt too wide) in paragraph at lines 200--208
-\T1/bch/m/n/10 como existen los estados de las entidades, que siga funcionando
- []
-
-
-Overfull \hbox (9.24722pt too wide) in paragraph at lines 200--208
-\T1/bch/m/n/10 a pesar de haber sido trasladado. Por eso también el software
- []
-
-
-Overfull \hbox (7.62857pt too wide) in paragraph at lines 209--211
-\T1/bch/m/n/10 en diferentes condiciones de hardware, software, servidores,
- []
-
-
-Overfull \hbox (30.7247pt too wide) in paragraph at lines 223--234
-\T1/bch/m/n/10 en módulos, donde cada módulo remite a una funcionalidad
- []
-
-
-Overfull \hbox (1.37732pt too wide) in paragraph at lines 223--234
-\T1/bch/m/n/10 específica. El principal objetivo al hacer esto es lograr
- []
-
-
-Overfull \hbox (3.62477pt too wide) in paragraph at lines 223--234
-\T1/bch/m/n/10 que un cambio en un módulo, tenga el menor impacto
- []
-
-
-Overfull \hbox (6.10066pt too wide) in paragraph at lines 223--234
-\T1/bch/m/n/10 Esta idea viene de la programación orientada a objetos
- []
-
-
-Overfull \hbox (18.88066pt too wide) in paragraph at lines 223--234
-\T1/bch/m/n/10 [POO]: diferente a la programación orientada a procesos,
- []
-
-[12]
-Overfull \hbox (0.80739pt too wide) in paragraph at lines 240--243
-[]\T1/bch/b/n/10 Capacidad de Ser Probado. \T1/bch/m/n/10 La mantenibilidad tie
-ne
- []
-
-
-Overfull \hbox (21.15457pt too wide) in paragraph at lines 254--262
-\T1/bch/m/n/10 horarios el software tiene que funcionar, tiene que ser confiabl
-e,
- []
-
-
-Overfull \hbox (3.42462pt too wide) in paragraph at lines 254--262
-\T1/bch/m/n/10 que tener una protección de la información, y de los estados
- []
-
-
-Overfull \hbox (3.7014pt too wide) in paragraph at lines 271--280
-[]\T1/bch/b/n/10 Confidencialidad. \T1/bch/m/n/10 En un primer momento, hablamo
-s
- []
-
-
-Overfull \hbox (57.39455pt too wide) in paragraph at lines 271--280
-\T1/bch/m/n/10 terceros, entonces el sistema debe garantizar esa confidencialid
-ad,
- []
-
-
-Overfull \hbox (18.43065pt too wide) in paragraph at lines 271--280
-\T1/bch/m/n/10 tiene que proteger la información del usuario y sobretodo
- []
-
-
-Overfull \hbox (14.44072pt too wide) in paragraph at lines 280--285
-\T1/bch/m/n/10 agentes que busquen extraer información para venderla,
- []
-
-
-Overfull \hbox (16.4307pt too wide) in paragraph at lines 285--290
-\T1/bch/m/n/10 suceda adentro del software tiene que quedar registrado,
- []
-
-
-Overfull \hbox (10.59068pt too wide) in paragraph at lines 285--290
-\T1/bch/m/n/10 para determinar quién fue el responsable de los hechos:
- []
-
-
-Overfull \hbox (20.16466pt too wide) in paragraph at lines 285--290
-\T1/bch/m/n/10 esta huela sirve para rastrear problemas, y dar soluciones. 
- []
-
-
-Overfull \hbox (7.75064pt too wide) in paragraph at lines 299--303
-\T1/bch/m/n/10 que es una herramienta que asiste en desarrollar un software
- []
-
-
-Overfull \hbox (2.64067pt too wide) in paragraph at lines 304--307
-[]\T1/bch/m/n/10 La calidad puede orientar en qué tipos de preguntas hacerle
- []
-
-
-Overfull \hbox (2.0746pt too wide) in paragraph at lines 308--315
-\T1/bch/m/n/10 anticiparse a las entregas, sabiendo qué es lo que se acordó,
- []
-
-
-Overfull \hbox (6.7206pt too wide) in paragraph at lines 308--315
-\T1/bch/m/n/10 sin que aparezcan elementos inesperados ni nuevos pedidos.
- []
-
-[13]) (./SI-2024-03.tex [14
+[12]) (./SI-2024-03.tex [13
 
 
 ]
-Overfull \hbox (8.70456pt too wide) in paragraph at lines 9--12
-[]\T1/bch/m/n/10 El conocimiento es el conjunto de comportamientos, saberes,
+Underfull \hbox (badness 1442) in paragraph at lines 9--12
+[]\T1/bch/m/n/10 El conocimiento es el conjunto de comportamientos,
  []
 
 
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 14.
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 14.
 
 
-Overfull \hbox (5.04858pt too wide) in paragraph at lines 16--20
-\T1/bch/m/n/10 Este conocimiento está documentado, escrito, está separado
+Underfull \hbox (badness 4792) in paragraph at lines 16--20
+\T1/bch/m/n/10 Este conocimiento está documentado, escrito, está
  []
 
 
-Overfull \hbox (4.06471pt too wide) in paragraph at lines 21--28
-\T1/bch/m/n/10 hace preguntas, y el agente las anota y hace una evaluación.
+Underfull \hbox (badness 1436) in paragraph at lines 32--41
+\T1/bch/m/n/10 Este conociemiento está formado por los quehaceres
  []
 
 
-Overfull \hbox (18.31053pt too wide) in paragraph at lines 32--41
-\T1/bch/m/n/10 Este conociemiento está formado por los quehaceres cotidianos
+Underfull \hbox (badness 1112) in paragraph at lines 32--41
+\T1/bch/m/n/10 como la fabricación de un producto en una fábrica,
  []
 
+[14
 
-Overfull \hbox (10.56056pt too wide) in paragraph at lines 42--52
-\T1/bch/m/n/10 entonces esta persona sabía que el 4 bis era un paso necesario
- []
-
-
-Overfull \hbox (18.23056pt too wide) in paragraph at lines 42--52
-\T1/bch/m/n/10 todos los algodones a una persona con ese nivel de experiencia,
- []
-
-
-Overfull \hbox (27.68459pt too wide) in paragraph at lines 57--63
-\T1/bch/m/n/10 materializarlo, y para eso tenemos que hacer que el conocimiento
-
- []
-
-
-Overfull \hbox (0.92455pt too wide) in paragraph at lines 57--63
-\T1/bch/m/n/10 conocimiento implícito, entonces buscamos dejar registros,
- []
-
-
-Overfull \hbox (0.11472pt too wide) in paragraph at lines 64--67
-\T1/bch/m/n/10 Naranja, donde saben su rol porque hay una cultura fuerte. 
- []
-
-[15
 
 ]) (./materia-Sistemas-de-Informacion.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `materia-Sistemas-de-Informacion.out' has not
  changed.
-(rerunfilecheck)             Checksum: 756A4D1BE153A2A51A7CE3C835F1DC34;11136.
+(rerunfilecheck)             Checksum: 7C989F37A761D530CC58E0E9B915723B;13911.
  ) 
 Here is how much of TeX's memory you used:
- 11159 strings out of 480247
- 175680 string characters out of 5896152
- 489300 words of memory out of 5000000
- 28862 multiletter control sequences out of 15000+600000
- 491697 words of font info for 45 fonts, out of 8000000 for 9000
+ 11444 strings out of 480247
+ 179825 string characters out of 5896152
+ 503223 words of memory out of 5000000
+ 29052 multiletter control sequences out of 15000+600000
+ 494592 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,12n,66p,531b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,12n,66p,571b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/bitstrea/charter/bchri8a.pfb>
-Output written on materia-Sistemas-de-Informacion.pdf (15 pages, 87379 bytes).
+ts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/bitstrea/charter/bchri8a.pfb>
+Output written on materia-Sistemas-de-Informacion.pdf (14 pages, 107283 bytes).
+
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
- 93 named destinations out of 1000 (max. 500000)
- 441 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 610 PDF objects out of 1000 (max. 8388607)
+ 580 compressed objects within 6 object streams
+ 179 named destinations out of 1000 (max. 500000)
+ 633 words of extra memory for PDF output out of 10000 (max. 10000000)
 

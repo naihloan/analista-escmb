@@ -1,6 +1,6 @@
 \usepackage{charter} % Use the Charter font
 \usepackage{amsmath}
-\usepackage{hyperref} 
+\usepackage[hidelinks]{hyperref}
 \hypersetup{%
   colorlinks=false,% hyperlinks will be coloured
   linkcolor=black,% hyperlink text will be green
@@ -12,8 +12,15 @@
 \usepackage[T1]{fontenc}
 \usepackage[spanish,activeacute]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage[raggedright]{titlesec}
+\usepackage{setspace} % control toc's line spacing
+\usepackage{parskip}
+% \usepackage[skip=0.75\baselineskip plus 2pt]{parskip}
+% \usepackage[raggedright]{titlesec}
+% \setlength{\parskip}{12pt}
+\setlength{\emergencystretch}{3em}
 \setcounter{secnumdepth}{1} % don't show numbers for subsubsections in toc
+\setcounter{tocdepth}{4}
+
 
 % \makeatletter
 % \Hy@AtBeginDocument{%
