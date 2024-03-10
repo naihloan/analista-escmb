@@ -1,47 +1,55 @@
-\BOOKMARK [0][-]{part.1}{I Sistemas de Informaci\363n}{}% 1
-\BOOKMARK [1][-]{section.1}{Teor\355a General de los Sistemas}{part.1}% 2
-\BOOKMARK [1][-]{section.2}{Caracter\355sticas de los Sistemas [EAES]}{part.1}% 3
-\BOOKMARK [1][-]{section.3}{C\363mo sabemos si una organizaci\363n funciona como Sistema? Principios [ESIDE]}{part.1}% 4
-\BOOKMARK [2][-]{subsection.3.1}{Por qu\351 la empresa debe aplicar sistemas?}{section.3}% 5
-\BOOKMARK [2][-]{subsection.3.2}{La finalidad de las organizaciones, y de sus componentes [OB.OB.ME.CU]}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.3}{Gradaci\363n de fines para componentes [MI.FU.RE.TA]}{section.3}% 7
-\BOOKMARK [1][-]{section.4}{Sistemas Totales [PIOCO]}{part.1}% 8
-\BOOKMARK [2][-]{subsection.4.1}{Sistema de Planificaci\363n [MECI]}{section.4}% 9
-\BOOKMARK [2][-]{subsection.4.2}{Sistema Organizativo}{section.4}% 10
-\BOOKMARK [2][-]{subsection.4.3}{Sistema de Control}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.4}{Sistema Operativo}{section.4}% 12
-\BOOKMARK [1][-]{section.5}{Sistema de Informaci\363n}{part.1}% 13
-\BOOKMARK [2][-]{subsection.5.1}{Pir\341mide de Informaci\363n}{section.5}% 14
-\BOOKMARK [1][-]{section.6}{Sistema de Informaci\363n como Sistematizaci\363n de Informaci\363n \(6\)}{part.1}% 15
-\BOOKMARK [2][-]{subsection.6.1}{Sistema de Procesamiento de Transacciones [TPS]}{section.6}% 16
-\BOOKMARK [2][-]{subsection.6.2}{Sistema de Control de Proceso de Negocio [BPM]}{section.6}% 17
-\BOOKMARK [2][-]{subsection.6.3}{Sistema de Colaboraci\363n Empresarial [ERP]}{section.6}% 18
-\BOOKMARK [2][-]{subsection.6.4}{Sistema de Informaci\363n de Gesti\363n [MIS]}{section.6}% 19
-\BOOKMARK [2][-]{subsection.6.5}{Sistema de Informaci\363n de Apoyo a la Toma de Decisiones [DSS]}{section.6}% 20
-\BOOKMARK [2][-]{subsection.6.6}{Sistema de Informaci\363n Ejecutiva [EIS]}{section.6}% 21
-\BOOKMARK [1][-]{section.7}{Niveles Jer\341rquicos de la Informaci\363n}{part.1}% 22
-\BOOKMARK [1][-]{section.8}{Tipos de Informaci\363n [NOR PLA REL OPER CyG II]}{part.1}% 23
-\BOOKMARK [2][-]{subsection.8.1}{Informaci\363n Normativa}{section.8}% 24
-\BOOKMARK [2][-]{subsection.8.2}{Informaci\363n de Planificaci\363n}{section.8}% 25
-\BOOKMARK [2][-]{subsection.8.3}{Informaci\363n de Relaciones}{section.8}% 26
-\BOOKMARK [2][-]{subsection.8.4}{Informaci\363n de Control y Gesti\363n}{section.8}% 27
-\BOOKMARK [2][-]{subsection.8.5}{Informaci\363n Integrada}{section.8}% 28
-\BOOKMARK [2][-]{subsection.8.6}{Informaci\363n de Investigaci\363n}{section.8}% 29
-\BOOKMARK [0][-]{part.2}{II Calidad}{}% 30
-\BOOKMARK [1][-]{section.9}{UNIDAD X:}{part.2}% 31
-\BOOKMARK [1][-]{section.10}{CALIDAD [Q]}{part.2}% 32
-\BOOKMARK [2][-]{subsection.10.1}{Adecuaci\363n Funcional [AF]}{section.10}% 33
-\BOOKMARK [2][-]{subsection.10.2}{Eficiencia de Desempe\361o [ED]}{section.10}% 34
-\BOOKMARK [3][-]{subsubsection.10.2.1}{Capacidad}{subsection.10.2}% 35
-\BOOKMARK [2][-]{subsection.10.3}{Usabilidad [U]}{section.10}% 36
-\BOOKMARK [2][-]{subsection.10.4}{Compatibilidad [C]}{section.10}% 37
-\BOOKMARK [2][-]{subsection.10.5}{Portabilidad [POR]}{section.10}% 38
-\BOOKMARK [2][-]{subsection.10.6}{Mantenibilidad [MAN]}{section.10}% 39
-\BOOKMARK [2][-]{subsection.10.7}{Fiabilidad [FIA]}{section.10}% 40
-\BOOKMARK [2][-]{subsection.10.8}{Seguridad [SE]}{section.10}% 41
-\BOOKMARK [1][-]{section.11}{Cierre de Calidad [Q]}{part.2}% 42
-\BOOKMARK [0][-]{part.3}{III Gesti\363n de Conocimiento}{}% 43
-\BOOKMARK [1][-]{section.12}{UNIDAD 4: Gesti\363n de Conocimiento}{part.3}% 44
-\BOOKMARK [2][-]{subsection.12.1}{1. Conocimiento Expl\355cito}{section.12}% 45
-\BOOKMARK [2][-]{subsection.12.2}{2. Conocimiento Impl\355cito}{section.12}% 46
-\BOOKMARK [2][-]{subsection.12.3}{Desaf\355o desde la Perspectiva de Sistemas}{section.12}% 47
+\BOOKMARK [0][-]{part.1}{\376\377\000I\000\040\000S\000i\000s\000t\000e\000m\000a\000s\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n}{}% 1
+\BOOKMARK [1][-]{section.1}{\376\377\000T\000e\000o\000r\000\355\000a\000\040\000G\000e\000n\000e\000r\000a\000l\000\040\000d\000e\000\040\000l\000o\000s\000\040\000S\000i\000s\000t\000e\000m\000a\000s}{part.1}% 2
+\BOOKMARK [1][-]{section.2}{\376\377\000C\000a\000r\000a\000c\000t\000e\000r\000\355\000s\000t\000i\000c\000a\000s\000\040\000d\000e\000\040\000l\000o\000s\000\040\000S\000i\000s\000t\000e\000m\000a\000s\000\040\000[\000E\000A\000E\000S\000]}{part.1}% 3
+\BOOKMARK [2][-]{section*.1}{\376\377\000E\000f\000i\000c\000i\000e\000n\000c\000i\000a}{section.2}% 4
+\BOOKMARK [3][-]{section*.1}{\376\377\000A\000d\000a\000p\000t\000a\000b\000i\000l\000i\000d\000a\000d}{section.2}% 5
+\BOOKMARK [3][-]{section*.1}{\376\377\000E\000s\000t\000a\000b\000i\000l\000i\000d\000a\000d}{section.2}% 6
+\BOOKMARK [3][-]{section*.1}{\376\377\000S\000i\000n\000e\000r\000g\000i\000a}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{\376\377\000C\000\363\000m\000o\000\040\000s\000a\000b\000e\000m\000o\000s\000\040\000s\000i\000\040\000u\000n\000a\000\040\000o\000r\000g\000a\000n\000i\000z\000a\000c\000i\000\363\000n\000\040\000f\000u\000n\000c\000i\000o\000n\000a\000\040\000c\000o\000m\000o\000\040\000S\000i\000s\000t\000e\000m\000a\000?\000\040\000P\000r\000i\000n\000c\000i\000p\000i\000o\000s\000\040\000[\000E\000S\000I\000D\000E\000]}{part.1}% 8
+\BOOKMARK [2][-]{section*.2}{\376\377\000E\000f\000i\000c\000a\000c\000i\000a}{section.3}% 9
+\BOOKMARK [3][-]{section*.2}{\376\377\000S\000u\000b\000s\000i\000d\000a\000r\000i\000e\000d\000a\000d}{section.3}% 10
+\BOOKMARK [3][-]{section*.2}{\376\377\000I\000n\000t\000e\000r\000a\000c\000c\000i\000\363\000n}{section.3}% 11
+\BOOKMARK [3][-]{section*.2}{\376\377\000D\000e\000t\000e\000r\000m\000i\000n\000i\000s\000m\000o}{section.3}% 12
+\BOOKMARK [3][-]{section*.2}{\376\377\000E\000q\000u\000i\000f\000i\000n\000a\000l\000i\000d\000a\000d}{section.3}% 13
+\BOOKMARK [2][-]{section*.2}{\376\377\000P\000o\000r\000\040\000q\000u\000\351\000\040\000l\000a\000\040\000e\000m\000p\000r\000e\000s\000a\000\040\000d\000e\000b\000e\000\040\000a\000p\000l\000i\000c\000a\000r\000\040\000s\000i\000s\000t\000e\000m\000a\000s\000?}{section.3}% 14
+\BOOKMARK [2][-]{Item.2}{\376\377\000L\000a\000\040\000f\000i\000n\000a\000l\000i\000d\000a\000d\000\040\000d\000e\000\040\000l\000a\000s\000\040\000o\000r\000g\000a\000n\000i\000z\000a\000c\000i\000o\000n\000e\000s\000,\000\040\000y\000\040\000d\000e\000\040\000s\000u\000s\000\040\000c\000o\000m\000p\000o\000n\000e\000n\000t\000e\000s\000\040\000[\000O\000B\000.\000O\000B\000.\000M\000E\000.\000C\000U\000]}{section.3}% 15
+\BOOKMARK [2][-]{Item.2}{\376\377\000G\000r\000a\000d\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000f\000i\000n\000e\000s\000\040\000p\000a\000r\000a\000\040\000c\000o\000m\000p\000o\000n\000e\000n\000t\000e\000s\000\040\000[\000M\000I\000.\000F\000U\000.\000R\000E\000.\000T\000A\000]}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{\376\377\000S\000i\000s\000t\000e\000m\000a\000s\000\040\000T\000o\000t\000a\000l\000e\000s\000\040\000[\000P\000I\000O\000C\000O\000]}{part.1}% 17
+\BOOKMARK [2][-]{section*.3}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000P\000l\000a\000n\000i\000f\000i\000c\000a\000c\000i\000\363\000n\000\040\000[\000M\000E\000C\000I\000]}{section.4}% 18
+\BOOKMARK [2][-]{section*.3}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000O\000r\000g\000a\000n\000i\000z\000a\000t\000i\000v\000o}{section.4}% 19
+\BOOKMARK [2][-]{section*.3}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000C\000o\000n\000t\000r\000o\000l}{section.4}% 20
+\BOOKMARK [2][-]{section*.3}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000O\000p\000e\000r\000a\000t\000i\000v\000o}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n}{part.1}% 22
+\BOOKMARK [2][-]{section*.4}{\376\377\000P\000i\000r\000\341\000m\000i\000d\000e\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n}{section.5}% 23
+\BOOKMARK [1][-]{section.6}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000c\000o\000m\000o\000\040\000S\000i\000s\000t\000e\000m\000a\000t\000i\000z\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000\050\0006\000\051}{part.1}% 24
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000P\000r\000o\000c\000e\000s\000a\000m\000i\000e\000n\000t\000o\000\040\000d\000e\000\040\000T\000r\000a\000n\000s\000a\000c\000c\000i\000o\000n\000e\000s\000\040\000[\000T\000P\000S\000]}{section.6}% 25
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000C\000o\000n\000t\000r\000o\000l\000\040\000d\000e\000\040\000P\000r\000o\000c\000e\000s\000o\000\040\000d\000e\000\040\000N\000e\000g\000o\000c\000i\000o\000\040\000[\000B\000P\000M\000]}{section.6}% 26
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000C\000o\000l\000a\000b\000o\000r\000a\000c\000i\000\363\000n\000\040\000E\000m\000p\000r\000e\000s\000a\000r\000i\000a\000l\000\040\000[\000E\000R\000P\000]}{section.6}% 27
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000G\000e\000s\000t\000i\000\363\000n\000\040\000[\000M\000I\000S\000]}{section.6}% 28
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000A\000p\000o\000y\000o\000\040\000a\000\040\000l\000a\000\040\000T\000o\000m\000a\000\040\000d\000e\000\040\000D\000e\000c\000i\000s\000i\000o\000n\000e\000s\000\040\000[\000D\000S\000S\000]}{section.6}% 29
+\BOOKMARK [2][-]{section*.5}{\376\377\000S\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000E\000j\000e\000c\000u\000t\000i\000v\000a\000\040\000[\000E\000I\000S\000]}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{\376\377\000N\000i\000v\000e\000l\000e\000s\000\040\000J\000e\000r\000\341\000r\000q\000u\000i\000c\000o\000s\000\040\000d\000e\000\040\000l\000a\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n}{part.1}% 31
+\BOOKMARK [1][-]{section.8}{\376\377\000T\000i\000p\000o\000s\000\040\000d\000e\000\040\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000[\000N\000O\000R\000\040\000P\000L\000A\000\040\000R\000E\000L\000\040\000O\000P\000E\000R\000\040\000C\000y\000G\000\040\000I\000I\000]}{part.1}% 32
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000N\000o\000r\000m\000a\000t\000i\000v\000a}{section.8}% 33
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000P\000l\000a\000n\000i\000f\000i\000c\000a\000c\000i\000\363\000n}{section.8}% 34
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000R\000e\000l\000a\000c\000i\000o\000n\000e\000s}{section.8}% 35
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000C\000o\000n\000t\000r\000o\000l\000\040\000y\000\040\000G\000e\000s\000t\000i\000\363\000n}{section.8}% 36
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000I\000n\000t\000e\000g\000r\000a\000d\000a}{section.8}% 37
+\BOOKMARK [2][-]{section*.6}{\376\377\000I\000n\000f\000o\000r\000m\000a\000c\000i\000\363\000n\000\040\000d\000e\000\040\000I\000n\000v\000e\000s\000t\000i\000g\000a\000c\000i\000\363\000n}{section.8}% 38
+\BOOKMARK [0][-]{part.2}{\376\377\000I\000I\000\040\000C\000a\000l\000i\000d\000a\000d\000\040\000[\000Q\000]}{}% 39
+\BOOKMARK [1][-]{section.9}{\376\377\000C\000A\000L\000I\000D\000A\000D\000\040\000[\000Q\000]}{part.2}% 40
+\BOOKMARK [2][-]{section*.7}{\376\377\000A\000d\000e\000c\000u\000a\000c\000i\000\363\000n\000\040\000F\000u\000n\000c\000i\000o\000n\000a\000l\000\040\000[\000A\000F\000]}{section.9}% 41
+\BOOKMARK [2][-]{section*.7}{\376\377\000E\000f\000i\000c\000i\000e\000n\000c\000i\000a\000\040\000d\000e\000\040\000D\000e\000s\000e\000m\000p\000e\000\361\000o\000\040\000[\000E\000D\000]}{section.9}% 42
+\BOOKMARK [3][-]{section*.8}{\376\377\000C\000a\000p\000a\000c\000i\000d\000a\000d}{section*.7}% 43
+\BOOKMARK [2][-]{section*.8}{\376\377\000U\000s\000a\000b\000i\000l\000i\000d\000a\000d\000\040\000[\000U\000]}{section.9}% 44
+\BOOKMARK [2][-]{section*.8}{\376\377\000C\000o\000m\000p\000a\000t\000i\000b\000i\000l\000i\000d\000a\000d\000\040\000[\000C\000]}{section.9}% 45
+\BOOKMARK [2][-]{section*.8}{\376\377\000P\000o\000r\000t\000a\000b\000i\000l\000i\000d\000a\000d\000\040\000[\000P\000O\000R\000]}{section.9}% 46
+\BOOKMARK [2][-]{section*.8}{\376\377\000M\000a\000n\000t\000e\000n\000i\000b\000i\000l\000i\000d\000a\000d\000\040\000[\000M\000A\000N\000]}{section.9}% 47
+\BOOKMARK [2][-]{section*.8}{\376\377\000F\000i\000a\000b\000i\000l\000i\000d\000a\000d\000\040\000[\000F\000I\000A\000]}{section.9}% 48
+\BOOKMARK [2][-]{section*.8}{\376\377\000S\000e\000g\000u\000r\000i\000d\000a\000d\000\040\000[\000S\000E\000]}{section.9}% 49
+\BOOKMARK [1][-]{section.10}{\376\377\000C\000i\000e\000r\000r\000e\000\040\000d\000e\000\040\000C\000a\000l\000i\000d\000a\000d\000\040\000[\000Q\000]}{part.2}% 50
+\BOOKMARK [0][-]{part.3}{\376\377\000I\000I\000I\000\040\000G\000e\000s\000t\000i\000\363\000n\000\040\000d\000e\000\040\000C\000o\000n\000o\000c\000i\000m\000i\000e\000n\000t\000o}{}% 51
+\BOOKMARK [1][-]{section.11}{\376\377\000U\000N\000I\000D\000A\000D\000\040\0004\000:\000\040\000G\000e\000s\000t\000i\000\363\000n\000\040\000d\000e\000\040\000C\000o\000n\000o\000c\000i\000m\000i\000e\000n\000t\000o}{part.3}% 52
+\BOOKMARK [2][-]{section*.9}{\376\377\0001\000.\000\040\000C\000o\000n\000o\000c\000i\000m\000i\000e\000n\000t\000o\000\040\000E\000x\000p\000l\000\355\000c\000i\000t\000o}{section.11}% 53
+\BOOKMARK [2][-]{section*.9}{\376\377\0002\000.\000\040\000C\000o\000n\000o\000c\000i\000m\000i\000e\000n\000t\000o\000\040\000I\000m\000p\000l\000\355\000c\000i\000t\000o}{section.11}% 54
+\BOOKMARK [2][-]{section*.9}{\376\377\000D\000e\000s\000a\000f\000\355\000o\000\040\000d\000e\000s\000d\000e\000\040\000l\000a\000\040\000P\000e\000r\000s\000p\000e\000c\000t\000i\000v\000a\000\040\000d\000e\000\040\000S\000i\000s\000t\000e\000m\000a\000s}{section.11}% 55
