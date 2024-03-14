@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.1)  13 MAR 2024 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.1)  14 MAR 2024 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -437,13 +437,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(./materia-nombre-carrera.tex) (./materia-Sistemas-de-Informacion.toc [1
+(./materia-nombre-carrera.tex (./materia-Sistemas-de-Informacion.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `materia-Sistemas-de-Informacion.toc'.
 
- [2] (./SI-2024-01.tex
+ [2]) (./SI-2024-01.tex
 LaTeX Font Info:    Trying to load font information for TS1+bch on input line 1
 3.
 
@@ -518,120 +518,125 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--183
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--215
+Underfull \hbox (badness 10000) in paragraph at lines 212--216
  []\T1/bch/b/n/10 FODA (fortalezas, oportunidades, debilidades y
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 230--235
+Underfull \hbox (badness 1430) in paragraph at lines 231--236
 \T1/bch/m/n/10 Acá está la comparación permanente entre lo que se
  []
 
 
-Underfull \hbox (badness 4084) in paragraph at lines 248--254
+Underfull \hbox (badness 4084) in paragraph at lines 249--255
 \T1/bch/m/n/10 las actividades diarias de la empresa, es decir las
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 248--254
+Underfull \hbox (badness 1152) in paragraph at lines 249--255
 \T1/bch/m/n/10 operaciones. El sistema operativo es un sistema que
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 248--254
+Underfull \hbox (badness 1107) in paragraph at lines 249--255
 \T1/bch/m/n/10 que organiza la actividad de la empresa, la actividad
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 263--267
+Underfull \hbox (badness 1694) in paragraph at lines 264--268
 \T1/bch/m/n/10 Así como en el sistema total hicimos una lupa para
  []
 
 [4]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 276.
+(hyperref)                than one, level fixed on input line 277.
 
 
-Underfull \hbox (badness 4036) in paragraph at lines 276--280
+Underfull \hbox (badness 4036) in paragraph at lines 277--281
  []\T1/bch/b/n/10 Información Normativa[][] \T1/bch/m/n/10 A la información que
  baja
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--292
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
 []\T1/bch/b/n/14.4 Sistema de Información como
  []
 
 
-Overfull \hbox (24.37247pt too wide) in paragraph at lines 298--298
-[][]\T1/bch/b/n/12 [TPS] | Sistema de Procesamiento de Transacciones 
+Overfull \hbox (24.37247pt too wide) in paragraph at lines 301--301
+[][]\T1/bch/b/n/12 [TPS] | Sistema de Procesamiento de Transacciones
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 315--325
+Underfull \hbox (badness 1107) in paragraph at lines 319--329
 \T1/bch/m/n/10 Este sistema se enfoca en procesos específicos, no en
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 332--341
+Underfull \hbox (badness 1092) in paragraph at lines 337--346
 \T1/bch/m/n/10 ejecutivos hasta los niveles operativos. Entonces este
  []
 
+
+Underfull \hbox (badness 2698) in paragraph at lines 398--398
+[][]\T1/bch/b/n/12 [EIS] | Sistema de Información Ejecutiva
+ []
+
 [5]
-Overfull \hbox (11.29085pt too wide) in paragraph at lines 415--415
-[]\T1/bch/b/n/14.4 Niveles Jerárquicos de la Información 
+Overfull \hbox (11.29085pt too wide) in paragraph at lines 423--423
+[]\T1/bch/b/n/14.4 Niveles Jerárquicos de la Información
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 424--426
+Underfull \hbox (badness 1424) in paragraph at lines 432--434
 []\T1/bch/m/n/10 Pero además de todo lo anterior, también se pueden
  []
 
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 428.
+(hyperref)                than one, level fixed on input line 436.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 429.
+(hyperref)                than one, level fixed on input line 437.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 443.
+(hyperref)                removing `\newline' on input line 464.
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 455--458
+Underfull \hbox (badness 1314) in paragraph at lines 476--479
 []\T1/bch/m/n/10 Se ha hecho una comparación del torrente sanguíneo
  []
 
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 461.
+(hyperref)                than one, level fixed on input line 482.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--465
+Underfull \hbox (badness 10000) in paragraph at lines 482--486
  []\T1/bch/b/n/10 [NOR] Información Normativa[][] \T1/bch/m/n/10 La información
 
  []
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 469.
+(hyperref)                than one, level fixed on input line 490.
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 497--505
+Underfull \hbox (badness 1661) in paragraph at lines 518--526
  []\T1/bch/b/n/10 [I] Información Integrada[][] \T1/bch/m/n/10 Esta información
  surge a
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 497--505
+Underfull \hbox (badness 1264) in paragraph at lines 518--526
 \T1/bch/m/n/10 muchas variables que se midieron para dar ese dato.
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 497--505
+Underfull \hbox (badness 2608) in paragraph at lines 518--526
 \T1/bch/m/n/10 que comparar cantidades con tiempos de producción
  []
 
@@ -791,17 +796,17 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 386.
 
 [9]) (./SI-2024-03.tex
-Underfull \hbox (badness 3138) in paragraph at lines 11--13
+Underfull \hbox (badness 3138) in paragraph at lines 12--14
 \T1/bch/m/n/10 El conocimiento es el conjunto de comportamientos,
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 36--45
+Underfull \hbox (badness 3128) in paragraph at lines 37--46
 \T1/bch/m/n/10 Este conociemiento está formado por los quehaceres
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 61--67
+Underfull \hbox (badness 1655) in paragraph at lines 64--70
 \T1/bch/m/n/10 materializarlo, y para eso tenemos que hacer que el
  []
 
@@ -816,22 +821,22 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `materia-Sistemas-de-Informacion.out' has not
  changed.
-(rerunfilecheck)             Checksum: 931F20E65403E3C7E3DE39577EE1A36E;19622.
+(rerunfilecheck)             Checksum: A0B9E100F8C635C58E18A1A759C10C37;20675.
  ) 
 Here is how much of TeX's memory you used:
  11489 strings out of 480247
  180381 string characters out of 5896152
- 505521 words of memory out of 5000000
+ 505713 words of memory out of 5000000
  29080 multiletter control sequences out of 15000+600000
  494307 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,11n,66p,571b,430s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,11n,66p,645b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /bitstrea/charter/bchri8a.pfb>
-Output written on materia-Sistemas-de-Informacion.pdf (10 pages, 111618 bytes).
+Output written on materia-Sistemas-de-Informacion.pdf (10 pages, 111631 bytes).
 
 PDF statistics:
  725 PDF objects out of 1000 (max. 8388607)

@@ -31,19 +31,19 @@
 \contentsline {paragraph}{{[}I{]} Impulsora}{4}{section*.28}%
 \contentsline {subsection}{{[}O{]} Sistema Organizativo}{4}{section*.30}%
 \contentsline {subsection}{{[}C{]} Sistema de Control}{4}{section*.31}%
-\contentsline {subsection}{{[}O{]} Sistema Operativo}{4}{section*.32}%
+\contentsline {subsection}{{[}O{]} Sistema Operacional}{4}{section*.32}%
 \contentsline {section}{\numberline {6}{[}I{]} Sistema de Información}{4}{section.6}%
 \contentsline {subsection}{Pirámide de Información}{5}{section*.33}%
 \contentsline {paragraph}{Información Normativa}{5}{section*.34}%
 \contentsline {paragraph}{Información Interpretativa}{5}{section*.35}%
 \contentsline {section}{\numberline {7}Sistema de Información como Sistematización de Información}{5}{section.7}%
-\contentsline {subsection}{{[}TPS{]} | Sistema de Procesamiento de Transacciones }{5}{section*.36}%
-\contentsline {subsection}{{[}BPM{]} | Sistema de Control de Proceso de Negocio }{5}{section*.37}%
-\contentsline {subsection}{{[}ERP{]} | Sistema de Colaboración Empresarial }{5}{section*.38}%
-\contentsline {subsection}{{[}MIS{]} | Sistema de Información de Gestión }{5}{section*.39}%
-\contentsline {subsection}{{[}DSS{]} | Sistema de Información de Apoyo a la Toma de Decisiones }{5}{section*.40}%
-\contentsline {subsection}{{[}EIS{]} | Sistema de Información Ejecutiva }{5}{section*.41}%
-\contentsline {section}{\numberline {8}Niveles Jerárquicos de la Información}{6}{section.8}%
+\contentsline {subsection}{{[}TPS{]} | Sistema de Procesamiento de Transacciones (Transaction Processing Systems) }{5}{section*.36}%
+\contentsline {subsection}{{[}BPM{]} | Sistema de Control de Proceso de Negocio (Business Process Management) }{5}{section*.37}%
+\contentsline {subsection}{{[}ERP{]} | Sistema de Colaboración Empresarial (Enterprise Resource Planning) }{5}{section*.38}%
+\contentsline {subsection}{{[}MIS{]} | Sistema de Información de Gestión (Management Information Systems) }{5}{section*.39}%
+\contentsline {subsection}{{[}DSS{]} | Sistema de Información de Apoyo a la Toma de Decisiones (Decision Support Systems) }{5}{section*.40}%
+\contentsline {subsection}{{[}EIS{]} | Sistema de Información Ejecutiva (Enterprise Information System) }{6}{section*.41}%
+\contentsline {section}{\numberline {8}Niveles Jerárquicos de la Información [4]}{6}{section.8}%
 \contentsline {paragraph}{Nivel Estratégico (Ejecutivo)}{6}{section*.42}%
 \contentsline {paragraph}{Nivel Gerencial}{6}{section*.43}%
 \contentsline {paragraph}{Nivel de Conocimiento}{6}{section*.44}%
