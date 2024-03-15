@@ -1,0 +1,38 @@
+18:34:48 From  Emiliano Barros  to  Everyone:
+	Buenas tardes
+18:35:11 From  Javier Borras  to  Everyone:
+	enlace para descargar el proyecto en clases	https://drive.google.com/open?id=1A9B9iBYZiVfsMNonn9573Lp5hihKmdJ1&authuser=javier.borras%40unc.edu.ar&usp=drive_fs
+18:36:40 From  Matias Molina  to  Everyone:
+	Joyas profe!
+18:37:31 From  Matias Molina  to  Everyone:
+	Mi internet hoy anda como pato rengo  
+18:38:07 From  Javier Borras  to  Everyone:
+	enlace para descargar el proyecto en clases	https://drive.google.com/open?id=1A9B9iBYZiVfsMNonn9573Lp5hihKmdJ1&authuser=javier.borras%40unc.edu.ar&usp=drive_fs
+18:51:23 From  Javier Borras  to  Everyone:
+	enlace para descargar el proyecto en clases	https://drive.google.com/open?id=1A9B9iBYZiVfsMNonn9573Lp5hihKmdJ1&authuser=javier.borras%40unc.edu.ar&usp=drive_fs
+18:51:45 From  Matias Molina  to  Everyone:
+	puede ser el "_" para eso profe
+19:01:46 From  Pedro Javier Mercado Monastyrski  to  Everyone:
+	alguien me pasaría el link para descargar el ultimo proyecto de esta clase
+19:01:52 From  Pedro Javier Mercado Monastyrski  to  Everyone:
+	llegue tarde perdon
+19:02:00 From  Marcelo Nuñez  to  Everyone:
+	https://drive.google.com/open?id=1A9B9iBYZiVfsMNonn9573Lp5hihKmdJ1&authuser=javier.borras%40unc.edu.ar&usp=drive_fs
+19:02:14 From  Pedro Javier Mercado Monastyrski  to  Everyone:
+	Gracias!
+19:15:15 From  Javier Borras  to  Everyone:
+	<a href="ActualizarPersona.aspx?id=<%= tablaDatos.Rows[i]["Id"] %>&Nombre=<%= tablaDatos.Rows[i]["Nombre"] %>&Edad=<%= tablaDatos.Rows[i]["Edad"] %>">Actualizar</a>
+19:28:21 From  Javier Borras  to  Everyone:
+	<form id="form1" runat="server">	        <input type="hidden" name="Id" value="<%= Request.QueryString["Id"] %>" />	        <div>	            <label for="Nombre">Nombre:</label>	            <input type="text" id="Nombre" name="Nombre" value="<%= Request.QueryString["Nombre"] %>" />	        </div>	        <div>	            <label for="Edad">Edad:</label>	            <input type="number" id="Edad" name="Edad" min="1" max="150" value="<%= Request.QueryString["Edad"] %>" />	        </div>	        <div>	            <input type="submit" />	        </div>	    </form>
+19:33:48 From  Javier Borras  to  Everyone:
+	public Persona(string nombre, int edad, int id)	        {	            Id = id;	            Edad = edad;	            Nombre = nombre;	        }
+19:35:56 From  Javier Borras  to  Everyone:
+	<script runat="server">	    public void Page_Load(object sender, EventArgs e)	    {	        if (HttpContext.Current.Request.HttpMethod == "POST")	        {	            var nombre = HttpContext.Current.Request.Form["Nombre"];	            var edad = HttpContext.Current.Request.Form["Edad"];	            var id = HttpContext.Current.Request.Form["id"];	            var repo = new ManuelBelgrano.DataAccess.PersonaRepository();	            var persona = new ManuelBelgrano.Entities.Persona(nombre, Convert.ToInt32(edad), Convert.ToInt32(id));	            repo.AddNewRecord(persona);	            Response.Redirect("Listado.aspx");	        }	    }	</script>
+19:48:32 From  Matias Molina  to  Everyone:
+	No profe, gracias
+19:48:40 From  Pedro Luis Sánchez  to  Everyone:
+	todo claro
+19:49:26 From  Dana Gabriela Aibar-471041  to  Everyone:
+	chau profe
+19:49:29 From  Matias Molina  to  Everyone:
+	Buenas noches

@@ -1,2 +1,0 @@
-# sistemaDeDatosII
-sistemaDeDatosII

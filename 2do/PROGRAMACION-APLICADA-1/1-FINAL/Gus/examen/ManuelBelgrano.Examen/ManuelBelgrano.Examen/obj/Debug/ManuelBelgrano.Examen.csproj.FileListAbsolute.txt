@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.exe.config
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.exe
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.pdb
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.exe
+C:\Users\Admin\Documents\AUSI 2A\PA1\FINAL MARZO\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.pdb
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.exe.config
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.exe
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\bin\Debug\ManuelBelgrano.Examen.pdb
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.csproj.AssemblyReference.cache
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.csproj.CoreCompileInputs.cache
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.exe
+C:\Users\shashis\Documents\GitHub\analista-escmb\2020\PROGRAMACION-APLICADA-1\1-FINAL\Gus\examen\ManuelBelgrano.Examen\ManuelBelgrano.Examen\obj\Debug\ManuelBelgrano.Examen.pdb

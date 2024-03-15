@@ -1,7 +1,0 @@
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\bin\Debug\ManuelBelgrano.EjemploClases.exe.config
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\bin\Debug\ManuelBelgrano.EjemploClases.exe
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\bin\Debug\ManuelBelgrano.EjemploClases.pdb
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\obj\Debug\ManuelBelgrano.EjemploClases.csprojAssemblyReference.cache
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\obj\Debug\ManuelBelgrano.EjemploClases.csproj.CoreCompileInputs.cache
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\obj\Debug\ManuelBelgrano.EjemploClases.exe
-G:\Mi unidad\2021\Programación Aplicada II\Clases Grabadas\Unidad II\ManuelBelgrano.EjemploClases\ManuelBelgrano.EjemploClases\obj\Debug\ManuelBelgrano.EjemploClases.pdb

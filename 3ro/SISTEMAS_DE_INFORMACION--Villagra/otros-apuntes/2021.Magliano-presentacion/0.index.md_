@@ -1,0 +1,29 @@
+---
+title: SISTEMAS DE INFORMACIÓN
+date: 12 de Agosto, 2022
+geometry: margin=2cm
+output: pdf_document
+---
+
+# Table of Contents
+
+#### [239. Why Do We Need APIs](239-Why-Do-We-Need-APIs.md)
+#### [240. API Endpoints Paths and Parameters](240-API-Endpoints-Paths-and-Parameters.md)
+
+\pagebreak
+
+\tableofcontents
+
+\pagebreak
+
+0.index.md
+1.constitucion.md
+2.sistemas.md
+3.componentes.md
+4.principios.md
+5.caracteristicas.md
+6.vision-de-sistemas.md
+7.subsistemas.md
+Sistemas-de-informacion-materia--presentacion-final.md
+z-Sistemas-de-informacion-apunteDeClases.md
+

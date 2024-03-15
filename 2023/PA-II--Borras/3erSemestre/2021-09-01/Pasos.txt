@@ -1,6 +1,0 @@
-1) Cambiar el tipo de datos en el repositorio PersonaRepository para el método GetAllRecords() para que retorne List<Persona>
-2) modificar dentro del método para poder recorrer la tabla y generar instancias de persona, y agregarlos al listado
-3) en la página listado.aspx, modificar el método public DataTable GetTable() 
-para que retorne el listado de personas, o sea public List<Persona> GetTable()
-4) En listado.aspx Importar el espacio de nombres persona <%@ Import Namespace="ManuelBelgrano.Entities" %>
-5) modificar listado.aspx para que en lugar de recorrer la tabla recorra el vector persona

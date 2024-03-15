@@ -1,0 +1,108 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}SISTEMAS DE INFORMACIÓN}{3}{section.1}%
+\contentsline {section}{\numberline {2}Teoría General de los Sistemas [TGS]}{3}{section.2}%
+\contentsline {section}{\numberline {3}Principios/Criterios de los Sistemas {[}ESIDE{]}}{3}{section.3}%
+\contentsline {paragraph}{{[}E{]} Eficacia}{3}{section*.3}%
+\contentsline {paragraph}{{[}S{]} Subsidariedad}{3}{section*.4}%
+\contentsline {paragraph}{{[}I{]} Interacción}{3}{section*.5}%
+\contentsline {paragraph}{{[}D{]} Determinismo}{3}{section*.6}%
+\contentsline {paragraph}{{[}E{]} Equifinalidad}{3}{section*.7}%
+\contentsline {subsection}{La finalidad de las organizaciones, y de sus componentes {[}OB.OB.ME.CU{]}}{3}{section*.9}%
+\contentsline {paragraph}{{[}OB{]} Objeto}{3}{section*.10}%
+\contentsline {paragraph}{{[}OB{]} Objetivo}{3}{section*.11}%
+\contentsline {paragraph}{{[}ME{]} Metas}{3}{section*.12}%
+\contentsline {paragraph}{{[}CU{]} Cuotas}{3}{section*.13}%
+\contentsline {subsection}{Gradación de fines para componentes {[}MI.FU.RE.TA{]}}{3}{section*.14}%
+\contentsline {paragraph}{{[}MI{]} Misión}{3}{section*.15}%
+\contentsline {paragraph}{{[}FU{]} Funciones}{3}{section*.16}%
+\contentsline {paragraph}{{[}RE{]} Responsabilidades}{3}{section*.17}%
+\contentsline {paragraph}{{[}TA{]} Tareas}{3}{section*.18}%
+\contentsline {section}{\numberline {4}Características/Capacidades de los Sistemas {[}EAES{]}}{3}{section.4}%
+\contentsline {paragraph}{{[}E{]} Eficiencia}{3}{section*.19}%
+\contentsline {paragraph}{{[}A{]} Adaptabilidad}{3}{section*.20}%
+\contentsline {paragraph}{{[}E{]} Estabilidad}{3}{section*.21}%
+\contentsline {paragraph}{{[}S{]} Sinergia}{3}{section*.22}%
+\contentsline {section}{\numberline {5}Sistemas Totales {[}PIOCO{]}}{4}{section.5}%
+\contentsline {subsection}{{[}P{]} Sistema de Planificación {[}MECI{]}}{4}{section*.23}%
+\contentsline {paragraph}{La planificación es una fuerza transformadora}{4}{section*.24}%
+\contentsline {paragraph}{{[}M{]} Maximizadora}{4}{section*.25}%
+\contentsline {paragraph}{{[}E{]} Equilibradora}{4}{section*.26}%
+\contentsline {paragraph}{{[}C{]} Coordinadora}{4}{section*.27}%
+\contentsline {paragraph}{{[}I{]} Impulsora}{4}{section*.28}%
+\contentsline {subsection}{{[}O{]} Sistema Organizativo}{4}{section*.30}%
+\contentsline {subsection}{{[}C{]} Sistema de Control}{4}{section*.31}%
+\contentsline {subsection}{{[}O{]} Sistema Operacional}{4}{section*.32}%
+\contentsline {section}{\numberline {6}{[}I{]} Sistema de Información}{5}{section.6}%
+\contentsline {subsection}{Pirámide de Información}{5}{section*.33}%
+\contentsline {paragraph}{Información Normativa}{5}{section*.34}%
+\contentsline {paragraph}{Información Interpretativa}{5}{section*.35}%
+\contentsline {section}{\numberline {7}Sistema de Información como Sistematización de Información}{5}{section.7}%
+\contentsline {subsection}{{[}TPS{]} | Sistema de Procesamiento de Transacciones (Transaction Processing Systems) }{5}{section*.36}%
+\contentsline {subsection}{{[}BPM{]} | Sistema de Control de Proceso de Negocio (Business Process Management) }{5}{section*.37}%
+\contentsline {subsection}{{[}ERP{]} | Sistema de Colaboración Empresarial (Enterprise Resource Planning) }{5}{section*.38}%
+\contentsline {subsection}{{[}MIS{]} | Sistema de Información de Gestión (Management Information Systems) }{5}{section*.39}%
+\contentsline {subsection}{{[}DSS{]} | Sistema de Información de Apoyo a la Toma de Decisiones (Decision Support Systems) }{5}{section*.40}%
+\contentsline {subsection}{{[}EIS{]} | Sistema de Información Ejecutiva (Enterprise Information System) }{6}{section*.41}%
+\contentsline {section}{\numberline {8}Niveles Jerárquicos de la Información [4]}{6}{section.8}%
+\contentsline {paragraph}{Nivel Ejecutivo/Estratégico}{6}{section*.42}%
+\contentsline {paragraph}{Nivel Gerencial}{6}{section*.43}%
+\contentsline {paragraph}{Nivel de Conocimiento}{6}{section*.44}%
+\contentsline {paragraph}{Nivel Operativo}{6}{section*.45}%
+\contentsline {section}{\numberline {9}Tipos de Información \newline [NOR PLA REL OPER CyG II]}{6}{section.9}%
+\contentsline {paragraph}{[NOR] Información Normativa}{6}{section*.46}%
+\contentsline {paragraph}{[PLA] Información de Planificación}{6}{section*.47}%
+\contentsline {paragraph}{[REL] Información de Relaciones}{6}{section*.48}%
+\contentsline {paragraph}{[OPER] Información Operacional}{6}{section*.49}%
+\contentsline {paragraph}{[CyG] Información de Control y Gestión}{6}{section*.50}%
+\contentsline {paragraph}{[I] Información Integrada}{6}{section*.51}%
+\contentsline {paragraph}{[I] Información de Investigación}{6}{section*.52}%
+\contentsline {section}{\numberline {10}CALIDAD (Q) \\ {[}AFEDUC POR MANFIASE{]}}{7}{section.10}%
+\contentsline {subsection}{Qué es Calidad?}{7}{section*.53}%
+\contentsline {subsection}{{[}AF{]} Adecuación Funcional }{7}{section*.54}%
+\contentsline {paragraph}{Completitud}{7}{section*.55}%
+\contentsline {paragraph}{Corrección}{7}{section*.56}%
+\contentsline {paragraph}{Pertinencia}{7}{section*.57}%
+\contentsline {subsection}{{[}ED{]} Eficiencia de Desempeño }{7}{section*.58}%
+\contentsline {paragraph}{Uso de Recursos}{7}{section*.59}%
+\contentsline {paragraph}{Comportamiento Temporal}{7}{section*.60}%
+\contentsline {paragraph}{Capacidad}{7}{section*.61}%
+\contentsline {subsection}{{[}U{]} Usabilidad / UX }{7}{section*.62}%
+\contentsline {paragraph}{Accesibilidad / Inclusividad}{7}{section*.63}%
+\contentsline {paragraph}{Aprendizabilidad}{7}{section*.64}%
+\contentsline {paragraph}{Auto-descriptividad}{8}{section*.65}%
+\contentsline {paragraph}{Asistencia al usuario}{8}{section*.66}%
+\contentsline {paragraph}{Estética / UI}{8}{section*.67}%
+\contentsline {paragraph}{Involucración del usuario}{8}{section*.68}%
+\contentsline {paragraph}{Operabilidad}{8}{section*.69}%
+\contentsline {paragraph}{Protección frente a errores de usuario}{8}{section*.70}%
+\contentsline {paragraph}{Reconocibilidad de Adecuación}{8}{section*.71}%
+\contentsline {subsection}{{[}C{]} Compatibilidad }{8}{section*.72}%
+\contentsline {paragraph}{Coexistencia}{8}{section*.73}%
+\contentsline {paragraph}{Intercambios de Información / Interoperabilidad}{8}{section*.74}%
+\contentsline {subsection}{{[}POR{]} Portabilidad }{8}{section*.75}%
+\contentsline {paragraph}{Instalabilidad}{8}{section*.76}%
+\contentsline {paragraph}{Escalabilidad}{8}{section*.77}%
+\contentsline {paragraph}{Reemplazabilidad}{8}{section*.78}%
+\contentsline {paragraph}{Adaptabilidad}{8}{section*.79}%
+\contentsline {subsection}{{[}MAN{]} Mantenibilidad }{8}{section*.80}%
+\contentsline {paragraph}{Modularidad}{8}{section*.81}%
+\contentsline {paragraph}{Analizabilidad}{8}{section*.82}%
+\contentsline {paragraph}{Capacidad de Ser Modificado}{8}{section*.83}%
+\contentsline {paragraph}{Capacidad de Ser Probado}{9}{section*.84}%
+\contentsline {subsection}{{[}FIA{]} Fiabilidad }{9}{section*.85}%
+\contentsline {paragraph}{Disponibilidad}{9}{section*.86}%
+\contentsline {paragraph}{Tolerancia a fallos}{9}{section*.87}%
+\contentsline {paragraph}{Recuperabilidad}{9}{section*.88}%
+\contentsline {subsection}{{[}SE{]} Seguridad }{9}{section*.89}%
+\contentsline {paragraph}{Confidencialidad}{9}{section*.90}%
+\contentsline {paragraph}{Prevenir accesos sin autorización}{9}{section*.91}%
+\contentsline {paragraph}{Registros: Pensar en la huella}{9}{section*.92}%
+\contentsline {paragraph}{Capacidad de no repudio}{9}{section*.93}%
+\contentsline {subsection}{Cierre de Calidad {[}Q{]}}{9}{section*.94}%
+\contentsline {paragraph}{La Calidad como herramienta orientativa para acuerdos y desarrollo}{9}{section*.95}%
+\contentsline {section}{\numberline {11}GESTIÓN DE CONOCIMIENTO}{10}{section.11}%
+\contentsline {subsection}{Qué es el conocimiento?}{10}{section*.96}%
+\contentsline {subsection}{1. Conocimiento Explícito}{10}{section*.97}%
+\contentsline {subsection}{2. Conocimiento Implícito}{10}{section*.98}%
+\contentsline {subsection}{Desafío desde la Perspectiva de Sistemas}{10}{section*.99}%
+\contentsline {section}{\numberline {12}Referencias}{10}{section.12}%

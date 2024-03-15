@@ -1,0 +1,106 @@
+Trabajo practico | Tareas y operaciones {#trabajo-practico-tareas-y-operaciones .unnumbered}
+=======================================
+
+### Consigna. Pasos para levantarse e ir a trabajar \[Nicolas Peralta, Benjamín Juárez\] {#consigna.-pasos-para-levantarse-e-ir-a-trabajar-nicolas-peralta-benjamín-juárez .unnumbered}
+
+Esta es una rutina que se hace sin considerar caminos alternativos ni
+otros medios de transporte. Se hace bajo condiciones normales de clima y
+sin accidentes en el camino. El desayuno se toma siempre en la oficina.
+
+1.  Despertarme
+
+    1.  Tomar Celular
+
+    2.  Apagar alarma
+
+2.  Levantarme
+
+    1.  Colocarse el calzado
+
+3.  Ir al baño
+
+    1.  Asearse
+
+        1.  Abrir grifo
+
+        2.  Lavarme la cara
+
+        3.  Tomar Cepillo
+
+        4.  Colocar pasta dental
+
+        5.  Cepillarme los dientes
+
+        6.  Dejar Cepillo
+
+        7.  Cerrar Grifo
+
+    2.  Orinar
+
+    3.  Salir del baño
+
+4.  Vestirse
+
+    1.  Dirigirse al cuarto
+
+    2.  Quitarme el pijama
+
+    3.  Colocarme el uniforme de trabajo
+
+5.  Recoger pertenencias
+
+    1.  Recoger llaves y billetera
+
+6.  Salir de la casa hacia el auto
+
+    1.  Abrir puerta
+
+    2.  Cerrar Puerta
+
+    3.  Caminar hacia el auto
+
+    4.  Sacar alarma del auto
+
+7.  Ir en auto
+
+    1.  Subirme al auto
+
+        1.  Abrir puerta
+
+        2.  Subirme
+
+        3.  Cerrar puerta
+
+    2.  Dirigirme al trabajo
+
+        1.  Arrancar Auto
+
+        2.  Hacer recorrido normal
+
+        3.  Estacionar Auto
+
+        4.  Apagar Auto
+
+    3.  Bajar del auto
+
+        1.  Abrir puerta del auto
+
+        2.  Me bajo
+
+        3.  Cerrar puerta del auto
+
+        4.  Colocar alarma al auto
+
+8.  Entrar al trabajo
+
+    1.  Caminar hacia la puerta del trabajo
+
+    2.  Abrir puerta trabajo
+
+    3.  Ingresar al trabajo
+
+    4.  Cerrar puerta trabajo
+
+9.  Fin
+
+

@@ -1,0 +1,6 @@
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\bin\Debug\ManuelBelgrano.DataAccess.dll
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\bin\Debug\ManuelBelgrano.DataAccess.pdb
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\obj\Debug\ManuelBelgrano.DataAccess.csproj.AssemblyReference.cache
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\obj\Debug\ManuelBelgrano.DataAccess.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\obj\Debug\ManuelBelgrano.DataAccess.dll
+G:\Mi unidad\2021\Programación Aplicada II\Exámenes\Segundo Parcial\Codigo\ManuelBelgrano\ManuelBelgrano.DataAccess\obj\Debug\ManuelBelgrano.DataAccess.pdb
